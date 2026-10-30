@@ -1,0 +1,1289 @@
+[
+  {
+    "marriageDays": [
+      {
+        "star": "-",
+        "thithi": "-",
+        "lagnam": "-",
+        "time": "காலை 09.30 - 10.30",
+        "yogam": "-",
+        "batcham": "-",
+        "date": 28,
+        "name": "தை 14"
+      }
+    ],
+    "kiruthigai": [
+      27
+    ],
+    "kariNaal": [
+      15,
+      16,
+      17,
+      25,
+      31
+    ],
+    "guvHolidays": [
+      {
+        "taDate": "மார்கழி 17",
+        "detail": "ஆங்கிலேயர்கள் கால கணிப்பு முறைப்படி இன்று உலக அளவில் ஆங்கிலப் புத்தாண்டு கொண்டாடப்படுகிறது.",
+        "name": "ஆங்கிலப் புத்தாண்டு",
+        "date": 1,
+        "icon": "new_year"
+      },
+      {
+        "taDate": "தை 1",
+        "detail": "தமிழர்களின் திருநாள். விவசாயிகளின் பொன்னாள்.",
+        "name": "தைப் பொங்கல்",
+        "date": 15,
+        "icon": "pongal"
+      },
+      {
+        "taDate": "தை 2",
+        "detail": "திருவள்ளுவர் அவதரித்ததாக கருதப்படும் தினம், உழவர்கள் மாடுகளுக்கு நன்றி தெரிவிக்கும் தினம்.",
+        "name": "மாட்டுப் பொங்கல், திருவள்ளுவர் தினம்",
+        "date": 16,
+        "icon": "mattu_pongal"
+      },
+      {
+        "taDate": "தை 3",
+        "detail": "இன்று உழவர்களின் கொண்டாட்ட திருநாள்.",
+        "name": "உழவர் திருநாள்",
+        "date": 17,
+        "icon": "ulavar"
+      },
+      {
+        "taDate": "தை 12",
+        "detail": "இந்திய நாடு குடியரசாக அறிவிக்கப்பட்ட நாள்.",
+        "name": "குடியரசு தினம்",
+        "date": 26,
+        "icon": "republic_day"
+      }
+    ],
+    "shivarathiri": [
+      17
+    ],
+    "amavasai": [
+      18
+    ],
+    "pournami": [
+      3
+    ],
+    "sSathurthi": [
+      6
+    ],
+    "egathasi": [
+      14,
+      29
+    ],
+    "sathurthi": [
+      22
+    ],
+    "shasti": [
+      8,
+      9,
+      24
+    ],
+    "piradosham": [
+      1,
+      16,
+      30
+    ],
+    "taMonthTotalDays": 30,
+    "taMonthStartIndex": 8,
+    "taMonthStartingDate": 17,
+    "taYearName": "விசுவாவசு",
+    "month": 1
+  },
+  {
+    "marriageDays": [
+      {
+        "star": "-",
+        "thithi": "-",
+        "lagnam": "-",
+        "time": "காலை 09.00 - 10.00",
+        "yogam": "-",
+        "batcham": "-",
+        "date": 6,
+        "name": "தை 23"
+      },
+      {
+        "star": "-",
+        "thithi": "-",
+        "lagnam": "-",
+        "time": "காலை 07.30 - 08.30",
+        "yogam": "-",
+        "batcham": "-",
+        "date": 8,
+        "name": "தை 25"
+      },
+      {
+        "star": "-",
+        "thithi": "-",
+        "lagnam": "-",
+        "time": "காலை 09.30 - 10.30",
+        "yogam": "-",
+        "batcham": "-",
+        "date": 13,
+        "name": "மாசி 1"
+      },
+      {
+        "star": "-",
+        "thithi": "-",
+        "lagnam": "-",
+        "time": "காலை 07.30 - 08.30",
+        "yogam": "-",
+        "batcham": "-",
+        "date": 15,
+        "name": "மாசி 3"
+      },
+      {
+        "star": "-",
+        "thithi": "-",
+        "lagnam": "-",
+        "time": "காலை 06.30 - 07.30",
+        "yogam": "-",
+        "batcham": "-",
+        "date": 16,
+        "name": "மாசி 4"
+      },
+      {
+        "star": "-",
+        "thithi": "-",
+        "lagnam": "-",
+        "time": "காலை 09.30 - 10.30",
+        "yogam": "-",
+        "batcham": "-",
+        "date": 20,
+        "name": "மாசி 8"
+      }
+    ],
+    "kiruthigai": [
+      23
+    ],
+    "kariNaal": [
+      27,
+      28
+    ],
+    "guvHolidays": [
+      {
+        "taDate": "தை 18",
+        "detail": "இன்று முருகப் பெருமானுக்கு உகந்த நன்னாள்.",
+        "name": "தைப்பூசம்",
+        "date": 1,
+        "icon": "thaipusam"
+      }
+    ],
+    "shivarathiri": [
+      15
+    ],
+    "amavasai": [
+      17
+    ],
+    "pournami": [
+      1
+    ],
+    "sSathurthi": [
+      5
+    ],
+    "egathasi": [
+      12,
+      13,
+      27
+    ],
+    "sathurthi": [
+      20,
+      21
+    ],
+    "shasti": [
+      7,
+      22,
+      23
+    ],
+    "piradosham": [
+      14
+    ],
+    "taMonthTotalDays": 29,
+    "taMonthStartIndex": 9,
+    "taMonthStartingDate": 18,
+    "taYearName": "விசுவாவசு",
+    "month": 2
+  },
+  {
+    "marriageDays": [
+      {
+        "star": "-",
+        "thithi": "-",
+        "lagnam": "-",
+        "time": "காலை 10.30 - 11.30",
+        "yogam": "-",
+        "batcham": "-",
+        "date": 5,
+        "name": "மாசி 21"
+      },
+      {
+        "star": "-",
+        "thithi": "-",
+        "lagnam": "-",
+        "time": "காலை 09.30 - 10.30",
+        "yogam": "-",
+        "batcham": "-",
+        "date": 6,
+        "name": "மாசி 22"
+      },
+      {
+        "star": "-",
+        "thithi": "-",
+        "lagnam": "-",
+        "time": "காலை 07.30 - 08.30",
+        "yogam": "-",
+        "batcham": "-",
+        "date": 8,
+        "name": "மாசி 24"
+      },
+      {
+        "star": "-",
+        "thithi": "-",
+        "lagnam": "-",
+        "time": "காலை 06.00 - 07.00",
+        "yogam": "-",
+        "batcham": "-",
+        "date": 15,
+        "name": "பங்குனி 1"
+      },
+      {
+        "star": "-",
+        "thithi": "-",
+        "lagnam": "-",
+        "time": "காலை 06.30 - 07.30",
+        "yogam": "-",
+        "batcham": "-",
+        "date": 16,
+        "name": "பங்குனி 2"
+      },
+      {
+        "star": "-",
+        "thithi": "-",
+        "lagnam": "-",
+        "time": "காலை 09.30 - 10.30",
+        "yogam": "-",
+        "batcham": "-",
+        "date": 25,
+        "name": "பங்குனி 11"
+      }
+    ],
+    "kiruthigai": [
+      23
+    ],
+    "kariNaal": [
+      1,
+      20,
+      29
+    ],
+    "guvHolidays": [
+      {
+        "taDate": "பங்குனி 5",
+        "detail": "'உகாதி பண்டிகை' என தெலுங்கு, கன்னடம் மற்றும் மராட்டி பேசும் மக்களால் இது கொண்டாடப்படுகிறது. அவர்களுக்கு இதுவே புத்தாண்டு.",
+        "name": "தெலுங்கு வருடப் பிறப்பு",
+        "date": 19,
+        "icon": "ugati"
+      },
+      {
+        "taDate": "பங்குனி 7",
+        "detail": "இஸ்லாமியர்களின் புனிதத் திருநாள்.",
+        "name": "ரமலான் பண்டிகை",
+        "date": 21,
+        "icon": "ramadan"
+      },
+      {
+        "taDate": "பங்குனி 17",
+        "detail": "இந்நாள் மகாவீரர் அவதரித்த திருநாள்.",
+        "name": "மகாவீர் ஜெயந்தி",
+        "date": 31,
+        "icon": "mahaveera_jayanthi"
+      }
+    ],
+    "shivarathiri": [
+      17
+    ],
+    "amavasai": [
+      18
+    ],
+    "pournami": [
+      3
+    ],
+    "sSathurthi": [
+      6
+    ],
+    "egathasi": [
+      14,
+      15,
+      28,
+      29
+    ],
+    "sathurthi": [
+      7,
+      22
+    ],
+    "shasti": [
+      9,
+      24
+    ],
+    "piradosham": [
+      1,
+      16,
+      30
+    ],
+    "taMonthTotalDays": 30,
+    "taMonthStartIndex": 10,
+    "taMonthStartingDate": 17,
+    "taYearName": "விசுவாவசு",
+    "month": 3
+  },
+  {
+    "marriageDays": [
+      {
+        "star": "-",
+        "thithi": "-",
+        "lagnam": "-",
+        "time": "காலை 06.30 - 07.30",
+        "yogam": "-",
+        "batcham": "-",
+        "date": 6,
+        "name": "பங்குனி 23"
+      },
+      {
+        "star": "-",
+        "thithi": "-",
+        "lagnam": "-",
+        "time": "காலை 07.30 - 08.30",
+        "yogam": "-",
+        "batcham": "-",
+        "date": 12,
+        "name": "பங்குனி 29"
+      },
+      {
+        "star": "-",
+        "thithi": "-",
+        "lagnam": "-",
+        "time": "காலை 06.30 - 07.30",
+        "yogam": "-",
+        "batcham": "-",
+        "date": 13,
+        "name": "பங்குனி 30"
+      },
+      {
+        "star": "-",
+        "thithi": "-",
+        "lagnam": "-",
+        "time": "காலை 10.30 - 11.30",
+        "yogam": "-",
+        "batcham": "-",
+        "date": 16,
+        "name": "சித்திரை 3"
+      },
+      {
+        "star": "-",
+        "thithi": "-",
+        "lagnam": "-",
+        "time": "காலை 05.00 - 06.00",
+        "yogam": "-",
+        "batcham": "-",
+        "date": 20,
+        "name": "சித்திரை 7"
+      },
+      {
+        "star": "-",
+        "thithi": "-",
+        "lagnam": "-",
+        "time": "காலை 10.30 - 11.30",
+        "yogam": "-",
+        "batcham": "-",
+        "date": 23,
+        "name": "சித்திரை 10"
+      },
+      {
+        "star": "-",
+        "thithi": "-",
+        "lagnam": "-",
+        "time": "காலை 05.00 - 06.00",
+        "yogam": "-",
+        "batcham": "-",
+        "date": 30,
+        "name": "சித்திரை 17"
+      }
+    ],
+    "kiruthigai": [
+      19
+    ],
+    "kariNaal": [
+      2,
+      19,
+      28
+    ],
+    "guvHolidays": [
+      {
+        "taDate": "பங்குனி 18",
+        "detail": "-",
+        "name": "வங்கி முழு வருடக் கணக்கு முடிவு (வங்கி மட்டும் விடுமுறை)",
+        "date": 1,
+        "icon": "bank-holiday"
+      },
+      {
+        "taDate": "பங்குனி 20",
+        "detail": "கிறிஸ்து இயேசு சிலுவையில் அடிக்கப்பட்ட நாள்.",
+        "name": "புனித வெள்ளி",
+        "date": 3,
+        "icon": "punitha_velli"
+      },
+      {
+        "taDate": "சித்திரை 1",
+        "detail": "இன்று தமிழ் புத்தாண்டு ஆரம்பம். அண்ணல் அம்பேத்கர் பிறந்த தினம்.",
+        "name": "தமிழ் வருடப் பிறப்பு, டாக்டர். அம்பேத்கர் பிறந்த நாள்",
+        "date": 14,
+        "icon": "tamil_new_year"
+      }
+    ],
+    "shivarathiri": [
+      15
+    ],
+    "amavasai": [
+      17
+    ],
+    "pournami": [
+      1
+    ],
+    "sSathurthi": [
+      5
+    ],
+    "egathasi": [
+      13,
+      27
+    ],
+    "sathurthi": [
+      20
+    ],
+    "shasti": [
+      8,
+      22
+    ],
+    "piradosham": [
+      15,
+      29
+    ],
+    "taMonthTotalDays": 30,
+    "taMonthStartIndex": 11,
+    "taMonthStartingDate": 18,
+    "taYearName": "பராபவ",
+    "month": 4
+  },
+  {
+    "marriageDays": [
+      {
+        "star": "-",
+        "thithi": "-",
+        "lagnam": "-",
+        "time": "காலை 09.30 - 10.30",
+        "yogam": "-",
+        "batcham": "-",
+        "date": 8,
+        "name": "சித்திரை 25"
+      },
+      {
+        "star": "-",
+        "thithi": "-",
+        "lagnam": "-",
+        "time": "காலை 09.30 - 10.30",
+        "yogam": "-",
+        "batcham": "-",
+        "date": 13,
+        "name": "சித்திரை 30"
+      },
+      {
+        "star": "-",
+        "thithi": "-",
+        "lagnam": "-",
+        "time": "காலை 10.30 - 11.30",
+        "yogam": "-",
+        "batcham": "-",
+        "date": 14,
+        "name": "சித்திரை 31"
+      },
+      {
+        "star": "-",
+        "thithi": "-",
+        "lagnam": "-",
+        "time": "காலை 09.30 - 10.30",
+        "yogam": "-",
+        "batcham": "-",
+        "date": 18,
+        "name": "வைகாசி 4"
+      },
+      {
+        "star": "-",
+        "thithi": "-",
+        "lagnam": "-",
+        "time": "காலை 10.30 - 11.30",
+        "yogam": "-",
+        "batcham": "-",
+        "date": 28,
+        "name": "வைகாசி 14"
+      },
+      {
+        "star": "-",
+        "thithi": "-",
+        "lagnam": "-",
+        "time": "காலை 09.30 - 10.30",
+        "yogam": "-",
+        "batcham": "-",
+        "date": 29,
+        "name": "வைகாசி 15"
+      }
+    ],
+    "kiruthigai": [
+      16
+    ],
+    "kariNaal": [
+      21,
+      30,
+      31
+    ],
+    "guvHolidays": [
+      {
+        "taDate": "சித்திரை 18",
+        "detail": "இன்று தொழிலாளர் தினம்.",
+        "name": "தொழிலாளர் தினம்",
+        "date": 1,
+        "icon": "workers_day"
+      },
+      {
+        "taDate": "வைகாசி 14",
+        "detail": "இப்ராஹீம் நபியின் தியாகத்தை நினைவு கூறும் ஈகைத் திருநாள்.",
+        "name": "பக்ரீத் பண்டிகை",
+        "date": 28,
+        "icon": "ic_pakrid"
+      }
+    ],
+    "shivarathiri": [
+      15
+    ],
+    "amavasai": [
+      16
+    ],
+    "pournami": [
+      1,
+      31
+    ],
+    "sSathurthi": [
+      5
+    ],
+    "egathasi": [
+      12,
+      13,
+      26,
+      27
+    ],
+    "sathurthi": [
+      20
+    ],
+    "shasti": [
+      7,
+      22
+    ],
+    "piradosham": [
+      14,
+      28
+    ],
+    "taMonthTotalDays": 31,
+    "taMonthStartIndex": 0,
+    "taMonthStartingDate": 18,
+    "taYearName": "பராபவ",
+    "month": 5
+  },
+  {
+    "marriageDays": [
+      {
+        "star": "-",
+        "thithi": "-",
+        "lagnam": "-",
+        "time": "காலை 10.30 - 11.30",
+        "yogam": "-",
+        "batcham": "-",
+        "date": 4,
+        "name": "வைகாசி 21"
+      },
+      {
+        "star": "-",
+        "thithi": "-",
+        "lagnam": "-",
+        "time": "காலை 07.30 - 08.30",
+        "yogam": "-",
+        "batcham": "-",
+        "date": 7,
+        "name": "வைகாசி 24"
+      },
+      {
+        "star": "-",
+        "thithi": "-",
+        "lagnam": "-",
+        "time": "காலை 09.30 - 10.30",
+        "yogam": "-",
+        "batcham": "-",
+        "date": 17,
+        "name": "ஆனி 3"
+      },
+      {
+        "star": "-",
+        "thithi": "-",
+        "lagnam": "-",
+        "time": "காலை 10.30 - 11.30",
+        "yogam": "-",
+        "batcham": "-",
+        "date": 18,
+        "name": "ஆனி 4"
+      },
+      {
+        "star": "-",
+        "thithi": "-",
+        "lagnam": "-",
+        "time": "காலை 09.30 - 10.30",
+        "yogam": "-",
+        "batcham": "-",
+        "date": 24,
+        "name": "ஆனி 10"
+      },
+      {
+        "star": "-",
+        "thithi": "-",
+        "lagnam": "-",
+        "time": "காலை 10.30 - 11.30",
+        "yogam": "-",
+        "batcham": "-",
+        "date": 25,
+        "name": "ஆனி 11"
+      }
+    ],
+    "kiruthigai": [
+      13
+    ],
+    "kariNaal": [
+      15,
+      20
+    ],
+    "guvHolidays": [
+      {
+        "taDate": "ஆனி 12",
+        "detail": "ஷியா பிரிவு இஸ்லாமியர்களின் துக்க நாள்.",
+        "name": "மொஹரம் பண்டிகை",
+        "date": 26,
+        "icon": "mokaram"
+      }
+    ],
+    "shivarathiri": [
+      13
+    ],
+    "amavasai": [
+      14
+    ],
+    "pournami": [
+      29
+    ],
+    "sSathurthi": [
+      4
+    ],
+    "egathasi": [
+      11,
+      25
+    ],
+    "sathurthi": [
+      18
+    ],
+    "shasti": [
+      6,
+      20
+    ],
+    "piradosham": [
+      12,
+      27
+    ],
+    "taMonthTotalDays": 31,
+    "taMonthStartIndex": 1,
+    "taMonthStartingDate": 18,
+    "taYearName": "பராபவ",
+    "month": 6
+  },
+  {
+    "marriageDays": [
+      {
+        "star": "-",
+        "thithi": "-",
+        "lagnam": "-",
+        "time": "காலை 10.45 - 11.45",
+        "yogam": "-",
+        "batcham": "-",
+        "date": 2,
+        "name": "ஆனி 18"
+      },
+      {
+        "star": "-",
+        "thithi": "-",
+        "lagnam": "-",
+        "time": "காலை 07.45 - 08.45",
+        "yogam": "-",
+        "batcham": "-",
+        "date": 5,
+        "name": "ஆனி 21"
+      },
+      {
+        "star": "-",
+        "thithi": "-",
+        "lagnam": "-",
+        "time": "காலை 07.45 - 08.45",
+        "yogam": "-",
+        "batcham": "-",
+        "date": 12,
+        "name": "ஆனி 28"
+      }
+    ],
+    "kiruthigai": [
+      10
+    ],
+    "kariNaal": [
+      18,
+      26
+    ],
+    "guvHolidays": [
+    ],
+    "shivarathiri": [
+      12
+    ],
+    "amavasai": [
+      14
+    ],
+    "pournami": [
+      29
+    ],
+    "sSathurthi": [
+      3
+    ],
+    "egathasi": [
+      10,
+      24,
+      25
+    ],
+    "sathurthi": [
+      17
+    ],
+    "shasti": [
+      6,
+      19
+    ],
+    "piradosham": [
+      12,
+      26
+    ],
+    "taMonthTotalDays": 32,
+    "taMonthStartIndex": 2,
+    "taMonthStartingDate": 17,
+    "taYearName": "பராபவ",
+    "month": 7
+  },
+  {
+    "marriageDays": [
+      {
+        "star": "-",
+        "thithi": "-",
+        "lagnam": "-",
+        "time": "காலை 07.45 - 08.45",
+        "yogam": "-",
+        "batcham": "-",
+        "date": 23,
+        "name": "ஆவணி 6"
+      },
+      {
+        "star": "-",
+        "thithi": "-",
+        "lagnam": "-",
+        "time": "காலை 07.45 - 08.45",
+        "yogam": "-",
+        "batcham": "-",
+        "date": 30,
+        "name": "ஆவணி 13"
+      },
+      {
+        "star": "-",
+        "thithi": "-",
+        "lagnam": "-",
+        "time": "காலை 06.15 - 07.15",
+        "yogam": "-",
+        "batcham": "-",
+        "date": 31,
+        "name": "ஆவணி 14"
+      }
+    ],
+    "kiruthigai": [
+      6
+    ],
+    "kariNaal": [
+      5,
+      19,
+      26
+    ],
+    "guvHolidays": [
+      {
+        "taDate": "ஆடி 30",
+        "detail": "இந்தியா சுதந்திரம் அடைந்த நாள்.",
+        "name": "இந்திய சுதந்திர தினம்",
+        "date": 15,
+        "icon": "independence_day"
+      },
+      {
+        "taDate": "ஆவணி 9",
+        "detail": "முகமது நபி அவர்களின் பிறந்த நாள் என்று அறியப்படுகிறது. இசுலாமிய நாட்காட்டியில் மூன்றாவது மாதம் இதுவே.",
+        "name": "மீலாடி நபி",
+        "date": 26,
+        "icon": "milad_un_nabi"
+      }
+    ],
+    "shivarathiri": [
+      11
+    ],
+    "amavasai": [
+      12
+    ],
+    "pournami": [
+      28
+    ],
+    "sSathurthi": [
+      2,
+      31
+    ],
+    "egathasi": [
+      8,
+      9,
+      23
+    ],
+    "sathurthi": [
+      16
+    ],
+    "shasti": [
+      4,
+      18
+    ],
+    "piradosham": [
+      10,
+      25
+    ],
+    "taMonthTotalDays": 32,
+    "taMonthStartIndex": 3,
+    "taMonthStartingDate": 16,
+    "taYearName": "பராபவ",
+    "month": 8
+  },
+  {
+    "marriageDays": [
+      {
+        "star": "-",
+        "thithi": "-",
+        "lagnam": "-",
+        "time": "காலை 06.00 - 07.00",
+        "yogam": "-",
+        "batcham": "-",
+        "date": 7,
+        "name": "ஆவணி 21"
+      },
+      {
+        "star": "-",
+        "thithi": "-",
+        "lagnam": "-",
+        "time": "காலை 07.45 - 08.45",
+        "yogam": "-",
+        "batcham": "-",
+        "date": 13,
+        "name": "ஆவணி 27"
+      },
+      {
+        "star": "-",
+        "thithi": "-",
+        "lagnam": "-",
+        "time": "காலை 10.45 - 11.45",
+        "yogam": "-",
+        "batcham": "-",
+        "date": 17,
+        "name": "ஆவணி 31"
+      }
+    ],
+    "kiruthigai": [
+      3,
+      30
+    ],
+    "kariNaal": [
+      14
+    ],
+    "guvHolidays": [
+      {
+        "taDate": "ஆவணி 18",
+        "detail": "ஸ்ரீ கிருஷ்ணர் பிறந்த தினம்.",
+        "name": "ஸ்ரீ கிருஷ்ண ஜெயந்தி",
+        "date": 4,
+        "icon": "gokulastami"
+      },
+      {
+        "taDate": "ஆவணி 28",
+        "detail": "ஸ்ரீ விநாயகப் பெருமான் அவதாரம் செய்த திருநாள்.",
+        "name": "ஸ்ரீ விநாயகர் சதுர்த்தி",
+        "date": 14,
+        "icon": "vinayagar_sathurthi"
+      }
+    ],
+    "shivarathiri": [
+      9
+    ],
+    "amavasai": [
+      11
+    ],
+    "pournami": [
+      26
+    ],
+    "sSathurthi": [
+      29
+    ],
+    "egathasi": [
+      7,
+      22
+    ],
+    "sathurthi": [
+      14
+    ],
+    "shasti": [
+      2,
+      16,
+      17
+    ],
+    "piradosham": [
+      8,
+      24
+    ],
+    "taMonthTotalDays": 31,
+    "taMonthStartIndex": 4,
+    "taMonthStartingDate": 15,
+    "taYearName": "பராபவ",
+    "month": 9
+  },
+  {
+    "marriageDays": [
+      {
+        "star": "-",
+        "thithi": "-",
+        "lagnam": "-",
+        "time": "காலை 06.15 - 07.00",
+        "yogam": "-",
+        "batcham": "-",
+        "date": 25,
+        "name": "ஐப்பசி 8"
+      },
+      {
+        "star": "-",
+        "thithi": "-",
+        "lagnam": "-",
+        "time": "காலை 09.15 - 10.15",
+        "yogam": "-",
+        "batcham": "-",
+        "date": 30,
+        "name": "ஐப்பசி 13"
+      }
+    ],
+    "kiruthigai": [
+      27
+    ],
+    "kariNaal": [
+      3,
+      16,
+      23
+    ],
+    "guvHolidays": [
+      {
+        "taDate": "புரட்டாசி 15",
+        "detail": "தேசத் தந்தை காந்திஜி பிறந்த தினம்.",
+        "name": "காந்தி ஜெயந்தி",
+        "date": 2,
+        "icon": "gandhi"
+      },
+      {
+        "taDate": "ஐப்பசி 2",
+        "detail": "சரஸ்வதி தேவியை வழிபடும் தினம். வாழ்க்கை போராட்டத்தில் அனுதினமும் நமக்கு உதவும் பொருள்களுக்கு நன்றி தெரிவிக்கும் நன்னாள்.",
+        "name": "சரஸ்வதி பூஜை, ஆயுத பூஜை",
+        "date": 19,
+        "icon": "saraswathi_poojai"
+      },
+      {
+        "taDate": "ஐப்பசி 3",
+        "detail": "வித்தைகள் மேம்பட புதிய விஷயங்களை துவங்க ஏதுவான நன்னாள்.",
+        "name": "விஜயதசமி",
+        "date": 20,
+        "icon": "vijayathasami"
+      }
+    ],
+    "shivarathiri": [
+      9
+    ],
+    "amavasai": [
+      10
+    ],
+    "pournami": [
+      25
+    ],
+    "sSathurthi": [
+      29
+    ],
+    "egathasi": [
+      6,
+      21,
+      22
+    ],
+    "sathurthi": [
+      14
+    ],
+    "shasti": [
+      2,
+      16,
+      31
+    ],
+    "piradosham": [
+      8,
+      23
+    ],
+    "taMonthTotalDays": 30,
+    "taMonthStartIndex": 5,
+    "taMonthStartingDate": 14,
+    "taYearName": "பராபவ",
+    "month": 10
+  },
+  {
+    "marriageDays": [
+      {
+        "star": "-",
+        "thithi": "-",
+        "lagnam": "-",
+        "time": "காலை 07.45 - 08.45",
+        "yogam": "-",
+        "batcham": "-",
+        "date": 1,
+        "name": "ஐப்பசி 15"
+      },
+      {
+        "star": "-",
+        "thithi": "-",
+        "lagnam": "-",
+        "time": "காலை 09.15 - 10.15",
+        "yogam": "-",
+        "batcham": "-",
+        "date": 11,
+        "name": "ஐப்பசி 25"
+      },
+      {
+        "star": "-",
+        "thithi": "-",
+        "lagnam": "-",
+        "time": "காலை 09.15 - 10.15",
+        "yogam": "-",
+        "batcham": "-",
+        "date": 13,
+        "name": "ஐப்பசி 27"
+      },
+      {
+        "star": "-",
+        "thithi": "-",
+        "lagnam": "-",
+        "time": "காலை 07.45 - 08.45",
+        "yogam": "-",
+        "batcham": "-",
+        "date": 15,
+        "name": "ஐப்பசி 29"
+      },
+      {
+        "star": "-",
+        "thithi": "-",
+        "lagnam": "-",
+        "time": "காலை 06.15 - 07.15",
+        "yogam": "-",
+        "batcham": "-",
+        "date": 16,
+        "name": "ஐப்பசி 30"
+      },
+      {
+        "star": "-",
+        "thithi": "-",
+        "lagnam": "-",
+        "time": "காலை 09.15 - 10.15",
+        "yogam": "-",
+        "batcham": "-",
+        "date": 20,
+        "name": "கார்த்திகை 4"
+      },
+      {
+        "star": "-",
+        "thithi": "-",
+        "lagnam": "-",
+        "time": "காலை 07.45 - 08.45",
+        "yogam": "-",
+        "batcham": "-",
+        "date": 29,
+        "name": "கார்த்திகை 13"
+      }
+    ],
+    "kiruthigai": [
+      24
+    ],
+    "kariNaal": [
+      6,
+      17,
+      26
+    ],
+    "guvHolidays": [
+      {
+        "taDate": "ஐப்பசி 22",
+        "detail": "தீபங்கள் ஒளி வீச, பட்டாசுகளை வெடித்து மக்கள் தங்கள் மகிழ்ச்சியை கொண்டாடும் திருநாள்.",
+        "name": "தீபாவளி பண்டிகை",
+        "date": 8,
+        "icon": "diwali"
+      }
+    ],
+    "shivarathiri": [
+      7
+    ],
+    "amavasai": [
+      8
+    ],
+    "pournami": [
+      24
+    ],
+    "sSathurthi": [
+      27
+    ],
+    "egathasi": [
+      4,
+      5,
+      20
+    ],
+    "sathurthi": [
+      13
+    ],
+    "shasti": [
+      15,
+      29
+    ],
+    "piradosham": [
+      6,
+      22
+    ],
+    "taMonthTotalDays": 30,
+    "taMonthStartIndex": 6,
+    "taMonthStartingDate": 15,
+    "taYearName": "பராபவ",
+    "month": 11
+  },
+  {
+    "marriageDays": [
+      {
+        "star": "-",
+        "thithi": "-",
+        "lagnam": "-",
+        "time": "காலை 09.15 - 10.15",
+        "yogam": "-",
+        "batcham": "-",
+        "date": 4,
+        "name": "கார்த்திகை 18"
+      },
+      {
+        "star": "-",
+        "thithi": "-",
+        "lagnam": "-",
+        "time": "காலை 07.45 - 08.45",
+        "yogam": "-",
+        "batcham": "-",
+        "date": 6,
+        "name": "கார்த்திகை 20"
+      },
+      {
+        "star": "-",
+        "thithi": "-",
+        "lagnam": "-",
+        "time": "காலை 10.45 - 11.45",
+        "yogam": "-",
+        "batcham": "-",
+        "date": 10,
+        "name": "கார்த்திகை 24"
+      },
+      {
+        "star": "-",
+        "thithi": "-",
+        "lagnam": "-",
+        "time": "காலை 07.45 - 08.45",
+        "yogam": "-",
+        "batcham": "-",
+        "date": 13,
+        "name": "கார்த்திகை 27"
+      },
+      {
+        "star": "-",
+        "thithi": "-",
+        "lagnam": "-",
+        "time": "காலை 06.15 - 07.15",
+        "yogam": "-",
+        "batcham": "-",
+        "date": 14,
+        "name": "கார்த்திகை 28"
+      }
+    ],
+    "kiruthigai": [
+      21
+    ],
+    "kariNaal": [
+      3,
+      21,
+      24,
+      26
+    ],
+    "guvHolidays": [
+      {
+        "taDate": "மார்கழி 10",
+        "detail": "கிறிஸ்து பிறந்ததாக சொல்லப்படும் கிறிஸ்துமஸ் திருவிழா.",
+        "name": "கிறிஸ்துமஸ் பண்டிகை",
+        "date": 25,
+        "icon": "christmas"
+      }
+    ],
+    "shivarathiri": [
+      7
+    ],
+    "amavasai": [
+      8
+    ],
+    "pournami": [
+      23
+    ],
+    "sSathurthi": [
+      27
+    ],
+    "egathasi": [
+      4,
+      20
+    ],
+    "sathurthi": [
+      13
+    ],
+    "shasti": [
+      15,
+      29
+    ],
+    "piradosham": [
+      6,
+      21
+    ],
+    "taMonthTotalDays": 29,
+    "taMonthStartIndex": 7,
+    "taMonthStartingDate": 15,
+    "taYearName": "பராபவ",
+    "month": 12
+  }
+]

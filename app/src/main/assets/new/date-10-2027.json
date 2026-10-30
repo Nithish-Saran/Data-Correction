@@ -1,0 +1,5125 @@
+[
+    {
+        "ragu": {
+            "dur": 90,
+            "msm": 600
+        },
+        "hindu": {
+            "name": "சரஸ்வதி பூஜை, ஆயுத பூஜை",
+            "icon": "saraswathi_poojai",
+            "desc": "சரஸ்வதி தேவியை வழிபடும் தினம். வாழ்க்கை போராட்டத்தில் அனுதினமும் நமக்கு உதவும் பொருள்களுக்கு நன்றி தெரிவிக்கும் நன்னாள்.",
+            "date": 1
+        },
+        "thithi": [
+            {
+                "msm": 1440,
+                "index": 2
+            },
+            {
+                "msm": 867,
+                "index": 1
+            }
+        ],
+        "year": 2027,
+        "yogam": [
+            {
+                "msm": 635,
+                "index": 2
+            },
+            {
+                "msm": 1440,
+                "index": 0
+            }
+        ],
+        "month": 10,
+        "date": 1,
+        "visaesam": "மஹாநவமி .சரஸ்வதி பூஜை. அரசு விடுமுறை. மதுரை ஸ்ரீமீனாக்ஷியம்மன் கொலு மண்டபத்தில் சிவ பூஜை செய்தருளிய காக்ஷி. உலக முதியோர் தினம். உலக சைவ தினம். சர்வதேச காபி தினம்.",
+        "star": [
+            {
+                "msm": 289,
+                "index": 5
+            },
+            {
+                "msm": 1440,
+                "index": 6
+            }
+        ],
+        "kuligai": {
+            "dur": 90,
+            "msm": 810
+        },
+        "rasi": [
+            85,
+            93,
+            130,
+            43,
+            56,
+            5,
+            80,
+            111,
+            40,
+            96,
+            63,
+            80
+        ],
+        "kattams": [
+            "சனி",
+            "",
+            "",
+            "கேது",
+            "குரு",
+            "சூரி சந் சுக்",
+            "புத செவ்",
+            "",
+            "",
+            "ராகு",
+            "",
+            ""
+        ],
+        "sooranam": {
+            "dur": 90,
+            "msm": 90
+        },
+        "soolam": 0,
+        "parigaram": 2,
+        "sun": {
+            "rise": 360,
+            "set": 1080
+        },
+        "muslim_date": 19,
+        "muslim_month": 4,
+        "ta_date": 15,
+        "ta_month": 6,
+        "ta_year": 40,
+        "is_ammavasai": false,
+        "is_pournami": false,
+        "is_kari_naal": false,
+        "is_sathurthi": false,
+        "is_s_sathurthi": false,
+        "is_shasti": false,
+        "is_egathasi": false,
+        "is_pradosham": false,
+        "is_siva_rathiri": false,
+        "is_thiruvathirai": false,
+        "is_thiruvonam": false,
+        "is_aruthra_darshan": false,
+        "is_kiruthigai": false,
+        "is_chanthira_darshan": false,
+        "day_special": "இன்று வளர்பிறை",
+        "good_timings": [
+            {
+                "dur": 60,
+                "msm": 360
+            },
+            {
+                "dur": 60,
+                "msm": 750
+            }
+        ],
+        "gowri_timings": [
+            {
+                "dur": 60,
+                "msm": 390
+            },
+            {
+                "dur": 60,
+                "msm": 870
+            }
+        ],
+        "ema_gandam": {
+            "dur": 90,
+            "msm": 420
+        },
+        "proverb": 274,
+        "noakku": 1,
+        "sun_rise": "6.14",
+        "chandrashtamam_star": [
+            3
+        ],
+        "chandrashtamam_rasi": [
+            1
+        ],
+        "nama_yogam": [
+            {
+                "msm": 700,
+                "index": 24
+            },
+            {
+                "msm": 1440,
+                "index": 25
+            }
+        ],
+        "karanam_panchangam": [
+            {
+                "msm": 28,
+                "index": 4
+            },
+            {
+                "msm": 792,
+                "index": 5
+            },
+            {
+                "msm": 1440,
+                "index": 6
+            }
+        ],
+        "is_valar_pirai": true,
+        "government_holiday": {
+            "name": "சரஸ்வதி பூஜை, ஆயுத பூஜை",
+            "icon": "sarasvathi_poojai",
+            "desc": "சரஸ்வதி தேவியை வழிபடும் தினம். வாழ்க்கை போராட்டத்தில் அனுதினமும் நமக்கு உதவும் பொருள்களுக்கு நன்றி தெரிவிக்கும் நன்னாள்",
+            "date": 1
+        }
+    },
+    {
+        "leaders": {
+            "name": "மகாத்மா காந்தி பிறந்த நாள், \nதிரு. லால்பகதூர் சாஸ்த்திரி பிறந்த நாள்",
+            "icon": "gandhi",
+            "desc": "காந்தி ஒரு இந்திய வழக்கறிஞர், தேசியவாதி மற்றும் அரசியல் தத்துவவாதி, அவர் அந்நிய ஆட்சியை எதிர்த்தார். இவர் மகாத்மா காந்தி என்று அன்புடன் அழைக்கப்படுகிறார். இந்தியாவின் சுதந்திரப் போராட்டத்தின் தலைமையேற்று நடத்தியதன் காரணமாக இவர் \"விடுதலை பெற்ற இந்தியாவின் தந்தை\" என்று அழைக்கப்படுகிறார். மகாத்மா காந்தியின் பிறந்த நாளான அக்டோபர் 2ஆம் தேதி காந்தி ஜெயந்தியாக ஒவ்வொரு ஆண்டும் கொண்டாடப்படுகிறது. \nதிரு.லால் பகதூர் சாஸ்திரி (அக்டோபர் 2, 1904 - ஜனவரி 11, 1966) இந்திய குடியரசின் இரண்டாவது பிரதமர் ஆவார். இவர் ஒரு முக்கியமான விடுதலைப் போராட்ட வீரரும் ஆவார். சுதந்திர இந்தியாவின் முதலாவது பிரதமராக இருந்த ஜவகர்லால் நேரு 1964 ஆம் ஆண்டு மே மாதம் காலமானதைத் தொடர்ந்து லால்பகதூர் சாஸ்திரி பதவிக்கு வந்தார். இவர் முறையாகத் தெரிவு செய்யப்படும் வரை குல்சாரிலால் நந்தா 14 நாட்கள் இடைக்காலப் பிரதமராக இருந்தார். இவர் பதவியேற்று 2 ஆண்டுகளுக்கு உள்ளாகவே, சோவியத் ஒன்றியத்திலுள்ள தாஷ்கண்டில் கூட்டப்பட்ட உச்சி மாநாட்டில் கலந்து கொண்ட போது காலமானார்.",
+            "date": 2
+        },
+        "ragu": {
+            "dur": 90,
+            "msm": 270
+        },
+        "hindu": {
+            "name": "விஜயதசமி",
+            "icon": "vijaya_dasami",
+            "desc": "வித்தைகள் மேம்பட புதிய விஷயங்களை துவங்க ஏதுவான நன்னாள்.",
+            "date": 2
+        },
+        "thithi": [
+            {
+                "msm": 1440,
+                "index": 3
+            },
+            {
+                "msm": 760,
+                "index": 2
+            }
+        ],
+        "year": 2027,
+        "yogam": [
+            {
+                "msm": 1440,
+                "index": 1
+            },
+            {
+                "msm": 1002,
+                "index": 0
+            }
+        ],
+        "month": 10,
+        "date": 2,
+        "visaesam": "தல்லாகுளம் ஸ்ரீ பிரசன்ன வெங்கடேசப் பெருமாள் இராஜாங்க அலங்காரம். ஸ்ரீ பெரும்புதூர் ஸ்ரீ மணவாள மாமுனிகள் புறப்பாடு. காமராஜர் நினைவு நாள். லால் பகதூர் சாஸ்திரி பிறந்த நாள். இன்று அரசு விடுமுறை.",
+        "star": [
+            {
+                "msm": 172,
+                "index": 6
+            },
+            {
+                "msm": 1440,
+                "index": 7
+            }
+        ],
+        "kuligai": {
+            "dur": 90,
+            "msm": 420
+        },
+        "rasi": [
+            20,
+            40,
+            33,
+            64,
+            30,
+            104,
+            116,
+            111,
+            30,
+            104,
+            97,
+            48
+        ],
+        "kattams": [
+            "சனி",
+            "",
+            "",
+            "கேது",
+            "குரு",
+            "சூரி சுக்",
+            "சந் புத செவ்",
+            "",
+            "",
+            "ராகு",
+            "",
+            ""
+        ],
+        "sooranam": {
+            "dur": 90,
+            "msm": 0
+        },
+        "soolam": 2,
+        "parigaram": 2,
+        "sun": {
+            "rise": 360,
+            "set": 1080
+        },
+        "muslim_date": 20,
+        "muslim_month": 4,
+        "ta_date": 16,
+        "ta_month": 6,
+        "ta_year": 40,
+        "is_ammavasai": false,
+        "is_pournami": false,
+        "is_kari_naal": false,
+        "is_sathurthi": false,
+        "is_s_sathurthi": false,
+        "is_shasti": false,
+        "is_egathasi": false,
+        "is_pradosham": false,
+        "is_siva_rathiri": false,
+        "is_thiruvathirai": false,
+        "is_thiruvonam": false,
+        "is_aruthra_darshan": false,
+        "is_kiruthigai": false,
+        "is_chanthira_darshan": false,
+        "day_special": "இன்று வளர்பிறை",
+        "good_timings": [
+            {
+                "dur": 60,
+                "msm": 630
+            },
+            {
+                "dur": 60,
+                "msm": 990
+            }
+        ],
+        "gowri_timings": [
+            {
+                "dur": 60,
+                "msm": 480
+            },
+            {
+                "dur": 60,
+                "msm": 720
+            }
+        ],
+        "ema_gandam": {
+            "dur": 90,
+            "msm": 90
+        },
+        "proverb": 275,
+        "noakku": 2,
+        "sun_rise": "5.40",
+        "chandrashtamam_star": [
+            4,
+            5
+        ],
+        "chandrashtamam_rasi": [
+            2
+        ],
+        "nama_yogam": [
+            {
+                "msm": 708,
+                "index": 25
+            },
+            {
+                "msm": 1440,
+                "index": 26
+            }
+        ],
+        "karanam_panchangam": [
+            {
+                "msm": 126,
+                "index": 6
+            },
+            {
+                "msm": 899,
+                "index": 7
+            },
+            {
+                "msm": 1440,
+                "index": 1
+            }
+        ],
+        "is_valar_pirai": true,
+        "government_holiday": {
+            "name": "விஜயதசமி, காந்தி ஜெயந்தி",
+            "icon": "gandhi",
+            "desc": "வித்தைகள் மேம்பட புதிய விஷயங்களை துவங்க ஏதுவான நன்னாள், தேசத் தந்தை காந்திஜி பிறந்த தினம்",
+            "date": 2
+        }
+    },
+    {
+        "leaders": {
+            "icon": "sivagaanam",
+            "desc": "சிவஞானம் (Ma. Po. Sivagnanam, 26 ஜூன் 1906 – 3 அக்டோபர் 1995) 1956-ஆம் ஆண்டில், தமிழர்களுக்கென தமிழ்நாடு தனி மாநிலம் படைத்ததால் தமிழ்த்தேசத் தந்தையாகப் போற்றப்படுபவர் ஆவார். தமிழகத்தைச் சேர்ந்த இந்திய விடுதலைப் போராட்ட வீரரும் சிறந்த தமிழறிஞரும் ஆவார்",
+            "name": "மா.பொ.சிவஞானம் நினைவு நாள்",
+            "date": 3
+        },
+        "ragu": {
+            "dur": 90,
+            "msm": 360
+        },
+        "thithi": [
+            {
+                "msm": 1440,
+                "index": 4
+            },
+            {
+                "msm": 639,
+                "index": 3
+            }
+        ],
+        "year": 2027,
+        "yogam": [
+            {
+                "msm": 466,
+                "index": 1
+            },
+            {
+                "msm": 1440,
+                "index": 2
+            }
+        ],
+        "month": 10,
+        "star": [
+            {
+                "msm": 361,
+                "index": 7
+            },
+            {
+                "msm": 1440,
+                "index": 8
+            }
+        ],
+        "visaesam": "சர்வ ஏகாதசி திருமாலிருஞ்சோலை ஸ்ரீகள்ளழகர் புறப்பாடு.",
+        "date": 3,
+        "kuligai": {
+            "dur": 90,
+            "msm": 780
+        },
+        "sooranam": {
+            "dur": 90,
+            "msm": 630
+        },
+        "rasi": [
+            68,
+            116,
+            80,
+            41,
+            139,
+            70,
+            104,
+            44,
+            21,
+            48,
+            62,
+            138
+        ],
+        "kattams": [
+            "சனி",
+            "",
+            "",
+            "கேது",
+            "குரு",
+            "சூரி சுக்",
+            "சந் புத செவ்",
+            "",
+            "",
+            "ராகு",
+            "",
+            ""
+        ],
+        "soolam": 0,
+        "parigaram": 1,
+        "sun": {
+            "rise": 360,
+            "set": 1080
+        },
+        "muslim_date": 21,
+        "muslim_month": 4,
+        "ta_date": 17,
+        "ta_month": 6,
+        "ta_year": 40,
+        "is_ammavasai": false,
+        "is_pournami": false,
+        "is_kari_naal": false,
+        "is_sathurthi": false,
+        "is_s_sathurthi": false,
+        "is_shasti": false,
+        "is_egathasi": false,
+        "is_pradosham": false,
+        "is_siva_rathiri": false,
+        "is_thiruvathirai": false,
+        "is_thiruvonam": false,
+        "is_aruthra_darshan": false,
+        "is_kiruthigai": false,
+        "is_chanthira_darshan": false,
+        "day_special": "இன்று வளர்பிறை",
+        "good_timings": [
+            {
+                "dur": 60,
+                "msm": 450
+            },
+            {
+                "dur": 60,
+                "msm": 900
+            }
+        ],
+        "gowri_timings": [
+            {
+                "dur": 60,
+                "msm": 630
+            },
+            {
+                "dur": 60,
+                "msm": 750
+            }
+        ],
+        "ema_gandam": {
+            "dur": 90,
+            "msm": 750
+        },
+        "proverb": 276,
+        "noakku": 2,
+        "sun_rise": "6.00",
+        "chandrashtamam_star": [
+            6,
+            7
+        ],
+        "chandrashtamam_rasi": [
+            3
+        ],
+        "nama_yogam": [
+            {
+                "msm": 699,
+                "index": 26
+            },
+            {
+                "msm": 1440,
+                "index": 0
+            }
+        ],
+        "karanam_panchangam": [
+            {
+                "msm": 240,
+                "index": 1
+            },
+            {
+                "msm": 1020,
+                "index": 2
+            },
+            {
+                "msm": 1440,
+                "index": 3
+            }
+        ],
+        "is_valar_pirai": true
+    },
+    {
+        "leaders": {
+            "date": 4,
+            "desc": "திருப்பூர் குமரன்                                                                                                                                                                                                                                                                                                                                            திருப்பூர் குமரன் (Tiruppur Kumaran; 4 அக்டோபர் 1904 – 11 ஜனவரி 1932) இந்திய விடுதலைப் போராட்டத் தியாகி ஆவார். இவர் ஈரோடு மாவட்டத்தில் உள்ள சென்னிமலையில் பிறந்தார். 1932 ஆம் ஆண்டு சட்ட மறுப்பு இயக்கம் மீண்டும் தொடங்கிய போது தமிழகம் முழுவதும் அறப்போராட்டம் பரவிய நேரத்தில் திருப்பூரில் தேசபந்து இளைஞர் மன்ற உறுப்பினர்கள் அச்சமயம் ஏற்பாடு செய்த மறியல் போராட்டத்தில் தீவிரமாகப் பங்குகொண்டு, 1932 ஜனவரி 10 ஆம் தேதியன்று கையில் தேசியக் கொடியினை ஏந்தி, தொண்டர் படைக்குத் தலைமை ஏற்று, அணிவகுத்துச் சென்றபோது காவலர்களால் தாக்கப்பட்டு கையில் இந்திய தேசியக் கொடியை ஏந்தியபடி மயங்கி விழுந்தார். பின்னர் மருத்துவமனையில் அனுமதிக்கப்பட்டு,[2] ஜனவரி 11 இல் உயிர் துறந்தார்.[3] இதனால் இவர் கொடிகாத்த குமரன் என்றும் அழைக்கப்படுகிறார்.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                சுப்பிரமணிய சிவா (4 அக்டோபர் 1884 - 23 ஜூலை 1925) இருபதாம் நூற்றாண்டின் முற்பகுதியில் வாழ்ந்த இந்திய விடுதலைப் போராட்ட வீரர் ஆவார். அரசியலையும், ஆன்மீகத்தையும் இணைத்து விடுதலைக்காகப் போராடியவர். தமிழகத்தின் ஏராளமான மக்களுக்கு விடுதலைத் தாகம் ஏற்படச்செய்த சிறந்த மேடைப்பேச்சாளர் மற்றும் சிறந்த இதழாளர்; 1913-இல் 'ஞானபாநு' இதழை நடத்தியவர். விடுதலைப்போராட்ட வீரர் வ. உ. சிதம்பரனாருடனும் மகாகவி பாரதியாருடனும் நெருங்கிப்பழகியவர். இவர் 'வீரமுரசு' எனப் புகழப்பட்டார்.",
+            "name": "திருப்பூர் குமரன் பிறந்த தினம்  திரு. சுப்ரமணியசிவா பிறந்த நாள்",
+            "icon": "tirupur_kumaran"
+        },
+        "ragu": {
+            "dur": 90,
+            "msm": 900
+        },
+        "thithi": [
+            {
+                "msm": 504,
+                "index": 4
+            },
+            {
+                "msm": 1440,
+                "index": 5
+            }
+        ],
+        "year": 2027,
+        "yogam": [
+            {
+                "msm": 291,
+                "index": 2
+            },
+            {
+                "msm": 1440,
+                "index": 0
+            }
+        ],
+        "month": 10,
+        "star": [
+            {
+                "msm": 1440,
+                "index": 9
+            },
+            {
+                "msm": 433,
+                "index": 8
+            }
+        ],
+        "visaesam": "மதுரை ஸ்ரீநவநீதகிருஷ்ண ஸ்வாமி மச்சாவதாரம். திருநெல்வேலி சப்பரத்தில் மகாவிஷ்ணு திருக்கோலமாய் காக்ஷி.",
+        "date": 4,
+        "kuligai": {
+            "dur": 90,
+            "msm": 870
+        },
+        "sooranam": {
+            "dur": 90,
+            "msm": 540
+        },
+        "rasi": [
+            69,
+            126,
+            82,
+            40,
+            131,
+            20,
+            59,
+            32,
+            32,
+            136,
+            113,
+            18
+        ],
+        "kattams": [
+            "சனி",
+            "",
+            "",
+            "கேது",
+            "குரு",
+            "சூரி",
+            "புத சுக் செவ்",
+            "சந்",
+            "",
+            "ராகு",
+            "",
+            ""
+        ],
+        "soolam": 0,
+        "parigaram": 0,
+        "sun": {
+            "rise": 360,
+            "set": 1080
+        },
+        "muslim_date": 22,
+        "muslim_month": 4,
+        "ta_date": 18,
+        "ta_month": 6,
+        "ta_year": 40,
+        "is_ammavasai": false,
+        "is_pournami": false,
+        "is_kari_naal": false,
+        "is_sathurthi": false,
+        "is_s_sathurthi": false,
+        "is_shasti": false,
+        "is_egathasi": false,
+        "is_pradosham": false,
+        "is_siva_rathiri": false,
+        "is_thiruvathirai": false,
+        "is_thiruvonam": false,
+        "is_aruthra_darshan": false,
+        "is_kiruthigai": false,
+        "is_chanthira_darshan": false,
+        "day_special": "இன்று வளர்பிறை",
+        "good_timings": [
+            {
+                "dur": 60,
+                "msm": 450
+            },
+            {
+                "dur": 60,
+                "msm": 900
+            }
+        ],
+        "gowri_timings": [
+            {
+                "dur": 60,
+                "msm": 450
+            },
+            {
+                "dur": 60,
+                "msm": 960
+            }
+        ],
+        "ema_gandam": {
+            "dur": 90,
+            "msm": 630
+        },
+        "proverb": 277,
+        "noakku": 1,
+        "sun_rise": "5.42",
+        "chandrashtamam_star": [
+            8
+        ],
+        "chandrashtamam_rasi": [
+            3
+        ],
+        "nama_yogam": [
+            {
+                "msm": 666,
+                "index": 0
+            },
+            {
+                "msm": 1440,
+                "index": 1
+            }
+        ],
+        "karanam_panchangam": [
+            {
+                "msm": 362,
+                "index": 3
+            },
+            {
+                "msm": 1143,
+                "index": 4
+            },
+            {
+                "msm": 1440,
+                "index": 5
+            }
+        ],
+        "is_valar_pirai": true
+    },
+    {
+        "leaders": {
+            "name": "வள்ளலார் பிறந்த தினம்",
+            "date": 5,
+            "icon": "vallalar",
+            "desc": "வள்ளலார் என்று அழைக்கப்படும் இராமலிங்க அடிகளார்  {5 அக்டோபர் 1823 – 30 ஜனவரி 1874) ஓர் ஆன்மீகவாதி ஆவார். \"எல்லா மதங்களிலும் உள்ள உண்மை ஒன்றே\" என்பதை குறிக்கும் வண்ணம், இவர் தோற்றுவித்த மார்க்கத்திற்கு \"சர்வ சமய சமரச சுத்த சன்மார்க்க சங்கம் \" என்று பெயரிட்டார். சைவ சமயத்தில் பல்வேறு சீர்திருத்தங்கள் செய்த வள்ளலாரை பழமைவாதிகள் கடுமையாக எதிர்த்தனர். இவர் சாதிய பாகுபாடுகளை கடுமையாக சாடினார்."
+        },
+        "ragu": {
+            "dur": 90,
+            "msm": 660
+        },
+        "thithi": [
+            {
+                "msm": 1440,
+                "index": 6
+            },
+            {
+                "msm": 220,
+                "index": 5
+            }
+        ],
+        "year": 2027,
+        "yogam": [
+            {
+                "msm": 955,
+                "index": 0
+            },
+            {
+                "msm": 1440,
+                "index": 1
+            }
+        ],
+        "month": 10,
+        "star": [
+            {
+                "msm": 380,
+                "index": 9
+            },
+            {
+                "msm": 1440,
+                "index": 10
+            }
+        ],
+        "visaesam": "திரிதினஸ்பிரிக். தல்லாகுளம் ஸ்ரீபிரசன்னவெங்கடேசப் பெருமாள் கிருஷ்ணாவதாரம் சிம்ம வாகனத்தில் பவனி. பெரிய நகசு.",
+        "date": 5,
+        "kuligai": {
+            "dur": 90,
+            "msm": 660
+        },
+        "sooranam": {
+            "dur": 90,
+            "msm": 450
+        },
+        "rasi": [
+            41,
+            76,
+            77,
+            93,
+            128,
+            80,
+            130,
+            44,
+            139,
+            112,
+            21,
+            32
+        ],
+        "kattams": [
+            "சனி",
+            "",
+            "",
+            "கேது",
+            "குரு",
+            "சூரி",
+            "புத சுக் செவ்",
+            "சந்",
+            "",
+            "ராகு",
+            "",
+            ""
+        ],
+        "soolam": 2,
+        "ashtami": {
+            "desc": "இன்று அதிகாலை 03.40 வரை சஷ்டி பின்பு சப்தமி",
+            "name": "அஷ்டமி",
+            "icon": "ic_astami_navami",
+            "date": 5
+        },
+        "parigaram": 1,
+        "sun": {
+            "rise": 360,
+            "set": 1080
+        },
+        "muslim_date": 23,
+        "muslim_month": 4,
+        "ta_date": 19,
+        "ta_month": 6,
+        "ta_year": 40,
+        "is_ammavasai": false,
+        "is_pournami": false,
+        "is_kari_naal": false,
+        "is_sathurthi": false,
+        "is_s_sathurthi": false,
+        "is_shasti": false,
+        "is_egathasi": false,
+        "is_pradosham": false,
+        "is_siva_rathiri": false,
+        "is_thiruvathirai": false,
+        "is_thiruvonam": false,
+        "is_aruthra_darshan": false,
+        "is_kiruthigai": false,
+        "is_chanthira_darshan": false,
+        "day_special": "இன்று வளர்பிறை",
+        "good_timings": [
+            {
+                "dur": 60,
+                "msm": 570
+            },
+            {
+                "dur": 60,
+                "msm": 720
+            }
+        ],
+        "gowri_timings": [
+            {
+                "dur": 60,
+                "msm": 510
+            },
+            {
+                "dur": 60,
+                "msm": 870
+            }
+        ],
+        "ema_gandam": {
+            "dur": 90,
+            "msm": 900
+        },
+        "proverb": 278,
+        "noakku": 0,
+        "sun_rise": "6.07",
+        "chandrashtamam_star": [
+            9
+        ],
+        "chandrashtamam_rasi": [
+            4
+        ],
+        "nama_yogam": [
+            {
+                "msm": 609,
+                "index": 1
+            },
+            {
+                "msm": 1440,
+                "index": 2
+            }
+        ],
+        "karanam_panchangam": [
+            {
+                "msm": 481,
+                "index": 5
+            },
+            {
+                "msm": 1259,
+                "index": 6
+            },
+            {
+                "msm": 1440,
+                "index": 7
+            }
+        ],
+        "is_valar_pirai": true
+    },
+    {
+        "ragu": {
+            "dur": 90,
+            "msm": 690
+        },
+        "thithi": [
+            {
+                "msm": 1440,
+                "index": 7
+            },
+            {
+                "msm": 219,
+                "index": 6
+            }
+        ],
+        "year": 2027,
+        "yogam": [
+            {
+                "msm": 359,
+                "index": 1
+            },
+            {
+                "msm": 1440,
+                "index": 2
+            }
+        ],
+        "date": 6,
+        "month": 10,
+        "visaesam": "அவிநாசி ஸ்ரீ சிவபெருமான் பௌர்ணமி பூஜை சிறப்பு அபிஷேகம் சிறிய நகசு.உலக வாழ்விட தினம்.",
+        "star": [
+            {
+                "msm": 1440,
+                "index": 11
+            },
+            {
+                "msm": 448,
+                "index": 10
+            }
+        ],
+        "kuligai": {
+            "dur": 90,
+            "msm": 720
+        },
+        "navami": {
+            "desc": "இன்று அதிகாலை 03.39 வரை சப்தமி பின்பு அஷ்டமி",
+            "name": "நவமி",
+            "icon": "ic_astami_navami",
+            "date": 6
+        },
+        "rasi": [
+            35,
+            58,
+            9,
+            76,
+            65,
+            0,
+            85,
+            31,
+            71,
+            28,
+            80,
+            104
+        ],
+        "kattams": [
+            "சனி",
+            "",
+            "",
+            "கேது",
+            "குரு",
+            "சூரி",
+            "புத சுக் செவ்",
+            "",
+            "சந்",
+            "ராகு",
+            "",
+            ""
+        ],
+        "sooranam": {
+            "dur": 90,
+            "msm": 360
+        },
+        "soolam": 0,
+        "parigaram": 1,
+        "sun": {
+            "rise": 360,
+            "set": 1080
+        },
+        "muslim_date": 24,
+        "muslim_month": 4,
+        "ta_date": 20,
+        "ta_month": 6,
+        "ta_year": 40,
+        "is_ammavasai": false,
+        "is_pournami": false,
+        "is_kari_naal": false,
+        "is_sathurthi": false,
+        "is_s_sathurthi": false,
+        "is_shasti": false,
+        "is_egathasi": false,
+        "is_pradosham": false,
+        "is_siva_rathiri": false,
+        "is_thiruvathirai": false,
+        "is_thiruvonam": false,
+        "is_aruthra_darshan": false,
+        "is_kiruthigai": false,
+        "is_chanthira_darshan": false,
+        "day_special": "இன்று வளர்பிறை",
+        "good_timings": [
+            {
+                "dur": 60,
+                "msm": 630
+            },
+            {
+                "dur": 60,
+                "msm": 900
+            }
+        ],
+        "gowri_timings": [
+            {
+                "dur": 60,
+                "msm": 450
+            },
+            {
+                "dur": 60,
+                "msm": 810
+            }
+        ],
+        "ema_gandam": {
+            "dur": 90,
+            "msm": 300
+        },
+        "proverb": 279,
+        "noakku": 1,
+        "sun_rise": "6.20",
+        "chandrashtamam_star": [
+            10
+        ],
+        "chandrashtamam_rasi": [
+            4,
+            11
+        ],
+        "nama_yogam": [
+            {
+                "msm": 529,
+                "index": 2
+            },
+            {
+                "msm": 1440,
+                "index": 3
+            }
+        ],
+        "karanam_panchangam": [
+            {
+                "msm": 590,
+                "index": 7
+            },
+            {
+                "msm": 1360,
+                "index": 8
+            },
+            {
+                "msm": 1440,
+                "index": 9
+            }
+        ],
+        "is_valar_pirai": true
+    },
+    {
+        "ragu": {
+            "dur": 90,
+            "msm": 690
+        },
+        "thithi": [
+            {
+                "msm": 1440,
+                "index": 9
+            },
+            {
+                "msm": 1391,
+                "index": 8
+            },
+            {
+                "msm": 77,
+                "index": 7
+            }
+        ],
+        "year": 2027,
+        "yogam": [
+            {
+                "msm": 1440,
+                "index": 2
+            }
+        ],
+        "star": [
+            {
+                "msm": 577,
+                "index": 11
+            },
+            {
+                "msm": 1440,
+                "index": 12
+            }
+        ],
+        "month": 10,
+        "visaesam": "கரூர் தான் தோன்றிய கல்யாணவேங்கடேசப்பெருமாள் வெள்ளி கெருட வாகனத்தில் பவனி. சீருங்கேரி ஸ்ரீசாரதாம்பாள் மோகினி அலங்காரம்.",
+        "date": 7,
+        "kuligai": {
+            "dur": 90,
+            "msm": 780
+        },
+        "sooranam": {
+            "dur": 90,
+            "msm": 180
+        },
+        "rasi": [
+            108,
+            77,
+            93,
+            125,
+            59,
+            27,
+            39,
+            71,
+            62,
+            59,
+            24,
+            74
+        ],
+        "kattams": [
+            "சனி",
+            "",
+            "",
+            "கேது",
+            "குரு",
+            "சூரி",
+            "புத சுக் செவ்",
+            "",
+            "சந்",
+            "ராகு",
+            "",
+            ""
+        ],
+        "soolam": 2,
+        "parigaram": 0,
+        "sun": {
+            "rise": 360,
+            "set": 1080
+        },
+        "muslim_date": 25,
+        "muslim_month": 4,
+        "ta_date": 21,
+        "ta_month": 6,
+        "ta_year": 40,
+        "is_ammavasai": false,
+        "is_pournami": false,
+        "is_kari_naal": true,
+        "is_sathurthi": false,
+        "is_s_sathurthi": false,
+        "is_shasti": false,
+        "is_egathasi": false,
+        "is_pradosham": false,
+        "is_siva_rathiri": false,
+        "is_thiruvathirai": false,
+        "is_thiruvonam": false,
+        "is_aruthra_darshan": false,
+        "is_kiruthigai": false,
+        "is_chanthira_darshan": false,
+        "day_special": "இன்று வளர்பிறை, கரி நாள்",
+        "good_timings": [
+            {
+                "dur": 60,
+                "msm": 360
+            },
+            {
+                "dur": 60,
+                "msm": 840
+            }
+        ],
+        "gowri_timings": [
+            {
+                "dur": 60,
+                "msm": 540
+            },
+            {
+                "dur": 60,
+                "msm": 870
+            }
+        ],
+        "ema_gandam": {
+            "dur": 90,
+            "msm": 90
+        },
+        "proverb": 280,
+        "noakku": 2,
+        "sun_rise": "6.16",
+        "chandrashtamam_star": [
+            11,
+            12
+        ],
+        "chandrashtamam_rasi": [
+            5
+        ],
+        "nama_yogam": [
+            {
+                "msm": 425,
+                "index": 3
+            },
+            {
+                "msm": 1440,
+                "index": 4
+            }
+        ],
+        "karanam_panchangam": [
+            {
+                "msm": 679,
+                "index": 9
+            },
+            {
+                "msm": 1437,
+                "index": 10
+            },
+            {
+                "msm": 1440,
+                "index": 0
+            }
+        ],
+        "is_valar_pirai": true
+    },
+    {
+        "ragu": {
+            "dur": 90,
+            "msm": 870
+        },
+        "thithi": [
+            {
+                "msm": 1274,
+                "index": 9
+            },
+            {
+                "msm": 1440,
+                "index": 10
+            }
+        ],
+        "year": 2027,
+        "yogam": [
+            {
+                "msm": 1084,
+                "index": 2
+            },
+            {
+                "msm": 1440,
+                "index": 0
+            }
+        ],
+        "star": [
+            {
+                "msm": 1440,
+                "index": 13
+            },
+            {
+                "msm": 766,
+                "index": 12
+            }
+        ],
+        "month": 10,
+        "visaesam": "திருவல்லிக்கேணி ஸ்ரீ பார்த்தசாரதிப் பெருமாள் கோயிலில் ஸ்ரீ வரதராஜப் பெருமாளுக்குத் திருமஞ்சன சேவை. திருநள்ளார் ஸ்ரீ சனி பகவான் சிறப்பு அபிஷேகம்.",
+        "date": 8,
+        "kuligai": {
+            "dur": 90,
+            "msm": 360
+        },
+        "sooranam": {
+            "dur": 90,
+            "msm": 90
+        },
+        "rasi": [
+            12,
+            116,
+            55,
+            59,
+            83,
+            94,
+            66,
+            33,
+            123,
+            1,
+            107,
+            10
+        ],
+        "kattams": [
+            "சனி",
+            "",
+            "",
+            "கேது",
+            "குரு",
+            "சூரி",
+            "புத சுக்",
+            "செவ்",
+            "சந்",
+            "ராகு",
+            "",
+            ""
+        ],
+        "soolam": 2,
+        "parigaram": 3,
+        "sun": {
+            "rise": 360,
+            "set": 1080
+        },
+        "muslim_date": 26,
+        "muslim_month": 4,
+        "ta_date": 22,
+        "ta_month": 6,
+        "ta_year": 40,
+        "is_ammavasai": false,
+        "is_pournami": false,
+        "is_kari_naal": false,
+        "is_sathurthi": false,
+        "is_s_sathurthi": false,
+        "is_shasti": false,
+        "is_egathasi": false,
+        "is_pradosham": false,
+        "is_siva_rathiri": false,
+        "is_thiruvathirai": false,
+        "is_thiruvonam": false,
+        "is_aruthra_darshan": false,
+        "is_kiruthigai": false,
+        "is_chanthira_darshan": false,
+        "day_special": "இன்று வளர்பிறை",
+        "good_timings": [
+            {
+                "dur": 60,
+                "msm": 570
+            },
+            {
+                "dur": 60,
+                "msm": 810
+            }
+        ],
+        "gowri_timings": [
+            {
+                "dur": 60,
+                "msm": 480
+            },
+            {
+                "dur": 60,
+                "msm": 870
+            }
+        ],
+        "ema_gandam": {
+            "dur": 90,
+            "msm": 600
+        },
+        "proverb": 281,
+        "noakku": 0,
+        "sun_rise": "5.57",
+        "chandrashtamam_star": [
+            13,
+            14
+        ],
+        "chandrashtamam_rasi": [
+            6
+        ],
+        "nama_yogam": [
+            {
+                "msm": 299,
+                "index": 4
+            },
+            {
+                "msm": 1440,
+                "index": 5
+            }
+        ],
+        "karanam_panchangam": [
+            {
+                "msm": 742,
+                "index": 0
+            },
+            {
+                "msm": 1440,
+                "index": 1
+            }
+        ],
+        "is_valar_pirai": true
+    },
+    {
+        "ragu": {
+            "dur": 90,
+            "msm": 240
+        },
+        "thithi": [
+            {
+                "msm": 1181,
+                "index": 10
+            },
+            {
+                "msm": 1440,
+                "index": 11
+            }
+        ],
+        "year": 2027,
+        "yogam": [
+            {
+                "msm": 1440,
+                "index": 2
+            },
+            {
+                "msm": 613,
+                "index": 0
+            },
+            {
+                "msm": 1394,
+                "index": 1
+            }
+        ],
+        "star": [
+            {
+                "msm": 948,
+                "index": 13
+            },
+            {
+                "msm": 1440,
+                "index": 14
+            }
+        ],
+        "month": 10,
+        "visaesam": "திருக்குற்றாலம் ஸ்ரீகுற்றாலநாதர் புறப்பாடு. சுவாமிமலை ஸ்ரீமுருகப் பெருமான் தங்க கவசம் அணிந்துவைரவேல் தரிசனம். உலக தபால் அலுவலக தினம்.",
+        "date": 9,
+        "kuligai": {
+            "dur": 90,
+            "msm": 990
+        },
+        "sooranam": {
+            "dur": 90,
+            "msm": 0
+        },
+        "rasi": [
+            50,
+            42,
+            84,
+            3,
+            142,
+            33,
+            108,
+            64,
+            11,
+            6,
+            33,
+            83
+        ],
+        "kattams": [
+            "சனி",
+            "",
+            "",
+            "கேது",
+            "குரு",
+            "சூரி",
+            "புத சுக்",
+            "செவ்",
+            "",
+            "சந் ராகு",
+            "",
+            ""
+        ],
+        "soolam": 2,
+        "parigaram": 1,
+        "sun": {
+            "rise": 360,
+            "set": 1080
+        },
+        "muslim_date": 27,
+        "muslim_month": 4,
+        "ta_date": 23,
+        "ta_month": 6,
+        "ta_year": 40,
+        "is_ammavasai": false,
+        "is_pournami": false,
+        "is_kari_naal": false,
+        "is_sathurthi": false,
+        "is_s_sathurthi": false,
+        "is_shasti": false,
+        "is_egathasi": false,
+        "is_pradosham": false,
+        "is_siva_rathiri": false,
+        "is_thiruvathirai": false,
+        "is_thiruvonam": false,
+        "is_aruthra_darshan": false,
+        "is_kiruthigai": false,
+        "is_chanthira_darshan": false,
+        "day_special": "இன்று வளர்பிறை",
+        "good_timings": [
+            {
+                "dur": 60,
+                "msm": 360
+            },
+            {
+                "dur": 60,
+                "msm": 960
+            }
+        ],
+        "gowri_timings": [
+            {
+                "dur": 60,
+                "msm": 360
+            },
+            {
+                "dur": 60,
+                "msm": 960
+            }
+        ],
+        "ema_gandam": {
+            "dur": 90,
+            "msm": 810
+        },
+        "proverb": 282,
+        "noakku": 1,
+        "sun_rise": "5.47",
+        "chandrashtamam_star": [
+            15
+        ],
+        "chandrashtamam_rasi": [
+            6,
+            7
+        ],
+        "nama_yogam": [
+            {
+                "msm": 156,
+                "index": 5
+            },
+            {
+                "msm": 1437,
+                "index": 6
+            },
+            {
+                "msm": 1440,
+                "index": 7
+            }
+        ],
+        "karanam_panchangam": [
+            {
+                "msm": 47,
+                "index": 1
+            },
+            {
+                "msm": 777,
+                "index": 2
+            },
+            {
+                "msm": 1440,
+                "index": 3
+            }
+        ],
+        "is_valar_pirai": true
+    },
+    {
+        "ragu": {
+            "dur": 90,
+            "msm": 360
+        },
+        "thithi": [
+            {
+                "msm": 1440,
+                "index": 12
+            },
+            {
+                "msm": 1094,
+                "index": 11
+            }
+        ],
+        "year": 2027,
+        "yogam": [
+            {
+                "msm": 1440,
+                "index": 2
+            }
+        ],
+        "star": [
+            {
+                "msm": 1075,
+                "index": 14
+            },
+            {
+                "msm": 1440,
+                "index": 15
+            }
+        ],
+        "month": 10,
+        "visaesam": "ஒப்பிலியப்பன் கோவில் ஸ்ரீசீனிவாசப்பெருமாள் சூர்ணாபிஷேகம். ஸ்ரீவில்லிபுத்தூர் ஸ்ரீ சிம்மம் பெரியபெருமாள் கண்ணாடி சப்பரத்தில் புறப்பாடு. கரூர் தான்தோன்றி ஸ்ரீ கல்யாண வேங்கடேசப்பெருமாள் திருக்கல்யாணம்",
+        "date": 10,
+        "kuligai": {
+            "dur": 90,
+            "msm": 900
+        },
+        "sooranam": {
+            "dur": 90,
+            "msm": 630
+        },
+        "rasi": [
+            29,
+            47,
+            65,
+            19,
+            8,
+            82,
+            110,
+            43,
+            101,
+            50,
+            116,
+            133
+        ],
+        "kattams": [
+            "சனி",
+            "",
+            "",
+            "கேது",
+            "குரு",
+            "சூரி",
+            "புத சுக்",
+            "செவ்",
+            "",
+            "சந் ராகு",
+            "",
+            ""
+        ],
+        "soolam": 1,
+        "parigaram": 0,
+        "sun": {
+            "rise": 360,
+            "set": 1080
+        },
+        "muslim_date": 28,
+        "muslim_month": 4,
+        "ta_date": 24,
+        "ta_month": 6,
+        "ta_year": 40,
+        "is_ammavasai": false,
+        "is_pournami": false,
+        "is_kari_naal": false,
+        "is_sathurthi": false,
+        "is_s_sathurthi": false,
+        "is_shasti": false,
+        "is_egathasi": true,
+        "is_pradosham": false,
+        "is_siva_rathiri": false,
+        "is_thiruvathirai": false,
+        "is_thiruvonam": false,
+        "is_aruthra_darshan": false,
+        "is_kiruthigai": false,
+        "is_chanthira_darshan": false,
+        "day_special": "இன்று வளர்பிறை, ஏகாதசி",
+        "good_timings": [
+            {
+                "dur": 60,
+                "msm": 600
+            },
+            {
+                "dur": 60,
+                "msm": 750
+            }
+        ],
+        "gowri_timings": [
+            {
+                "dur": 60,
+                "msm": 570
+            },
+            {
+                "dur": 60,
+                "msm": 900
+            }
+        ],
+        "ema_gandam": {
+            "dur": 90,
+            "msm": 900
+        },
+        "proverb": 283,
+        "noakku": 0,
+        "sun_rise": "5.53",
+        "chandrashtamam_star": [
+            16
+        ],
+        "chandrashtamam_rasi": [
+            7
+        ],
+        "nama_yogam": [
+            {
+                "msm": 1265,
+                "index": 7
+            },
+            {
+                "msm": 1440,
+                "index": 8
+            }
+        ],
+        "karanam_panchangam": [
+            {
+                "msm": 67,
+                "index": 3
+            },
+            {
+                "msm": 751,
+                "index": 4
+            },
+            {
+                "msm": 1440,
+                "index": 5
+            }
+        ],
+        "is_valar_pirai": true
+    },
+    {
+        "ragu": {
+            "dur": 90,
+            "msm": 360
+        },
+        "thithi": [
+            {
+                "msm": 1039,
+                "index": 12
+            },
+            {
+                "msm": 1440,
+                "index": 13
+            }
+        ],
+        "year": 2027,
+        "yogam": [
+            {
+                "msm": 1440,
+                "index": 0
+            },
+            {
+                "msm": 978,
+                "index": 2
+            }
+        ],
+        "star": [
+            {
+                "msm": 964,
+                "index": 15
+            },
+            {
+                "msm": 1440,
+                "index": 16
+            }
+        ],
+        "month": 10,
+        "visaesam": "திருப்பதி ஸ்ரீஏழுமலையப்பன் ரதோத்ஸவம். தல்லாகுளம் ஸ்ரீபிரசன்ன வேங்கடேசப்பெருமாள் வெண்ணைத் தாழி ஸேவை.",
+        "date": 11,
+        "kuligai": {
+            "dur": 90,
+            "msm": 900
+        },
+        "sooranam": {
+            "dur": 90,
+            "msm": 540
+        },
+        "rasi": [
+            122,
+            59,
+            21,
+            10,
+            30,
+            45,
+            46,
+            135,
+            14,
+            16,
+            138,
+            111
+        ],
+        "kattams": [
+            "சனி",
+            "",
+            "",
+            "கேது",
+            "குரு",
+            "சூரி",
+            "புத சுக்",
+            "செவ்",
+            "",
+            "ராகு",
+            "சந்",
+            ""
+        ],
+        "soolam": 1,
+        "parigaram": 2,
+        "sun": {
+            "rise": 360,
+            "set": 1080
+        },
+        "muslim_date": 29,
+        "muslim_month": 4,
+        "ta_date": 25,
+        "ta_month": 6,
+        "ta_year": 40,
+        "is_ammavasai": false,
+        "is_pournami": false,
+        "is_kari_naal": false,
+        "is_sathurthi": false,
+        "is_s_sathurthi": false,
+        "is_shasti": false,
+        "is_egathasi": false,
+        "is_pradosham": true,
+        "is_siva_rathiri": false,
+        "is_thiruvathirai": false,
+        "is_thiruvonam": false,
+        "is_aruthra_darshan": false,
+        "is_kiruthigai": false,
+        "is_chanthira_darshan": false,
+        "day_special": "இன்று வளர்பிறை, பிரதோஷம்",
+        "good_timings": [
+            {
+                "dur": 60,
+                "msm": 570
+            },
+            {
+                "dur": 60,
+                "msm": 720
+            }
+        ],
+        "gowri_timings": [
+            {
+                "dur": 60,
+                "msm": 570
+            },
+            {
+                "dur": 60,
+                "msm": 960
+            }
+        ],
+        "ema_gandam": {
+            "dur": 90,
+            "msm": 720
+        },
+        "proverb": 284,
+        "noakku": 0,
+        "sun_rise": "6.13",
+        "chandrashtamam_star": [
+            17
+        ],
+        "chandrashtamam_rasi": [
+            7
+        ],
+        "nama_yogam": [
+            {
+                "msm": 1085,
+                "index": 8
+            },
+            {
+                "msm": 1440,
+                "index": 9
+            }
+        ],
+        "karanam_panchangam": [
+            {
+                "msm": 54,
+                "index": 5
+            },
+            {
+                "msm": 756,
+                "index": 6
+            },
+            {
+                "msm": 1440,
+                "index": 7
+            }
+        ],
+        "is_valar_pirai": true
+    },
+    {
+        "ragu": {
+            "dur": 90,
+            "msm": 270
+        },
+        "thithi": [
+            {
+                "msm": 1440,
+                "index": 15
+            },
+            {
+                "msm": 1013,
+                "index": 13
+            }
+        ],
+        "year": 2027,
+        "yogam": [
+            {
+                "msm": 1440,
+                "index": 1
+            },
+            {
+                "msm": 739,
+                "index": 0
+            }
+        ],
+        "star": [
+            {
+                "msm": 1440,
+                "index": 17
+            },
+            {
+                "msm": 909,
+                "index": 16
+            }
+        ],
+        "month": 10,
+        "visaesam": "இன்று ஸ்ரீ உமா விரதம். சந்திரோதய கௌரீ விரதம். கோவில் பட்டி ஸ்ரீ செண்பக வல்லித் தாயார் உற்சவம் ஆரம்பம். திருநெல்வேலி அன்னை ஸ்ரீ காந்திமதியம்மன் உற்சவம் ஆரம்பம். திருப்போரூர் ஸ்ரீ முருகப் பெருமானுக்கு மகா அபிஷேகம்.",
+        "date": 12,
+        "kuligai": {
+            "dur": 90,
+            "msm": 270
+        },
+        "sooranam": {
+            "dur": 90,
+            "msm": 450
+        },
+        "rasi": [
+            33,
+            130,
+            9,
+            2,
+            37,
+            104,
+            13,
+            22,
+            112,
+            77,
+            124,
+            21
+        ],
+        "kattams": [
+            "சனி",
+            "",
+            "",
+            "கேது",
+            "குரு",
+            "சூரி",
+            "புத சுக்",
+            "செவ்",
+            "",
+            "ராகு",
+            "சந்",
+            ""
+        ],
+        "soolam": 2,
+        "parigaram": 3,
+        "sun": {
+            "rise": 360,
+            "set": 1080
+        },
+        "muslim_date": 30,
+        "muslim_month": 4,
+        "ta_date": 26,
+        "ta_month": 6,
+        "ta_year": 40,
+        "is_ammavasai": false,
+        "is_pournami": true,
+        "is_kari_naal": false,
+        "is_sathurthi": false,
+        "is_s_sathurthi": false,
+        "is_shasti": false,
+        "is_egathasi": false,
+        "is_pradosham": false,
+        "is_siva_rathiri": false,
+        "is_thiruvathirai": false,
+        "is_thiruvonam": false,
+        "is_aruthra_darshan": false,
+        "is_kiruthigai": false,
+        "is_chanthira_darshan": false,
+        "day_special": "இன்று பௌர்ணமி",
+        "good_timings": [
+            {
+                "dur": 60,
+                "msm": 390
+            },
+            {
+                "dur": 60,
+                "msm": 720
+            }
+        ],
+        "gowri_timings": [
+            {
+                "dur": 60,
+                "msm": 540
+            },
+            {
+                "dur": 60,
+                "msm": 840
+            }
+        ],
+        "ema_gandam": {
+            "dur": 90,
+            "msm": 780
+        },
+        "proverb": 285,
+        "noakku": 1,
+        "sun_rise": "6.07",
+        "chandrashtamam_star": [
+            18
+        ],
+        "chandrashtamam_rasi": [
+            8
+        ],
+        "nama_yogam": [
+            {
+                "msm": 899,
+                "index": 9
+            },
+            {
+                "msm": 1440,
+                "index": 10
+            }
+        ],
+        "karanam_panchangam": [
+            {
+                "msm": 13,
+                "index": 7
+            },
+            {
+                "msm": 699,
+                "index": 1
+            },
+            {
+                "msm": 1384,
+                "index": 2
+            },
+            {
+                "msm": 1440,
+                "index": 3
+            }
+        ],
+        "is_valar_pirai": true
+    },
+    {
+        "ragu": {
+            "dur": 90,
+            "msm": 660
+        },
+        "thithi": [
+            {
+                "msm": 1019,
+                "index": 15
+            },
+            {
+                "msm": 1440,
+                "index": 0
+            }
+        ],
+        "year": 2027,
+        "yogam": [
+            {
+                "msm": 1440,
+                "index": 2
+            },
+            {
+                "msm": 85,
+                "index": 1
+            }
+        ],
+        "star": [
+            {
+                "msm": 1440,
+                "index": 18
+            },
+            {
+                "msm": 1101,
+                "index": 17
+            }
+        ],
+        "month": 10,
+        "visaesam": "சங்கரன் கோயில் ஸ்ரீ கோமதியம்மன் தங்க பாவாடை தரிசனம். திருவிடை மருதூர் ஸ்ரீ பிரஹத் குசாம்பிகை புறப்பாடு. திருத்தணி ஸ்ரீ முருகப் பெருமான் கிளி வாகன ஸேவை.",
+        "date": 13,
+        "kuligai": {
+            "dur": 90,
+            "msm": 360
+        },
+        "sooranam": {
+            "dur": 90,
+            "msm": 360
+        },
+        "rasi": [
+            40,
+            101,
+            0,
+            100,
+            121,
+            78,
+            84,
+            73,
+            132,
+            138,
+            49,
+            129
+        ],
+        "kattams": [
+            "சனி",
+            "",
+            "",
+            "கேது",
+            "குரு",
+            "சூரி",
+            "புத சுக்",
+            "செவ்",
+            "",
+            "ராகு",
+            "சந்",
+            ""
+        ],
+        "soolam": 3,
+        "parigaram": 1,
+        "sun": {
+            "rise": 360,
+            "set": 1080
+        },
+        "muslim_date": 1,
+        "muslim_month": 5,
+        "ta_date": 27,
+        "ta_month": 6,
+        "ta_year": 40,
+        "is_ammavasai": false,
+        "is_pournami": false,
+        "is_kari_naal": false,
+        "is_sathurthi": false,
+        "is_s_sathurthi": false,
+        "is_shasti": false,
+        "is_egathasi": false,
+        "is_pradosham": false,
+        "is_siva_rathiri": false,
+        "is_thiruvathirai": false,
+        "is_thiruvonam": false,
+        "is_aruthra_darshan": false,
+        "is_kiruthigai": true,
+        "is_chanthira_darshan": false,
+        "day_special": "இன்று தேய்பிறை, கிருத்திகை",
+        "good_timings": [
+            {
+                "dur": 60,
+                "msm": 510
+            },
+            {
+                "dur": 60,
+                "msm": 870
+            }
+        ],
+        "gowri_timings": [
+            {
+                "dur": 60,
+                "msm": 420
+            },
+            {
+                "dur": 60,
+                "msm": 750
+            }
+        ],
+        "ema_gandam": {
+            "dur": 90,
+            "msm": 630
+        },
+        "proverb": 286,
+        "noakku": 2,
+        "sun_rise": "5.48",
+        "chandrashtamam_star": [
+            19,
+            20
+        ],
+        "chandrashtamam_rasi": [
+            8,
+            9
+        ],
+        "nama_yogam": [
+            {
+                "msm": 711,
+                "index": 10
+            },
+            {
+                "msm": 1440,
+                "index": 11
+            }
+        ],
+        "karanam_panchangam": [
+            {
+                "msm": 618,
+                "index": 3
+            },
+            {
+                "msm": 1292,
+                "index": 4
+            },
+            {
+                "msm": 1440,
+                "index": 5
+            }
+        ],
+        "is_valar_pirai": false
+    },
+    {
+        "ragu": {
+            "dur": 90,
+            "msm": 300
+        },
+        "thithi": [
+            {
+                "msm": 1042,
+                "index": 0
+            },
+            {
+                "msm": 1440,
+                "index": 1
+            }
+        ],
+        "year": 2027,
+        "yogam": [
+            {
+                "msm": 571,
+                "index": 2
+            },
+            {
+                "msm": 1440,
+                "index": 0
+            }
+        ],
+        "star": [
+            {
+                "msm": 1050,
+                "index": 18
+            },
+            {
+                "msm": 1440,
+                "index": 19
+            }
+        ],
+        "month": 10,
+        "visaesam": "ஒப்பிலியப்பன் ஸ்ரீ நிவாஸப் பெருமாள் வெண்னெய்த் தாழி ஸேவை. சுவாமி மலை முருகன் வைரவேல் தரிசனம்.",
+        "date": 14,
+        "kuligai": {
+            "dur": 90,
+            "msm": 960
+        },
+        "sooranam": {
+            "dur": 90,
+            "msm": 180
+        },
+        "rasi": [
+            12,
+            33,
+            45,
+            10,
+            86,
+            5,
+            58,
+            116,
+            110,
+            126,
+            51,
+            97
+        ],
+        "kattams": [
+            "சனி",
+            "",
+            "",
+            "கேது",
+            "குரு",
+            "சூரி",
+            "புத சுக்",
+            "செவ்",
+            "",
+            "ராகு",
+            "",
+            "சந்"
+        ],
+        "soolam": 2,
+        "parigaram": 0,
+        "sun": {
+            "rise": 360,
+            "set": 1080
+        },
+        "muslim_date": 2,
+        "muslim_month": 5,
+        "ta_date": 28,
+        "ta_month": 6,
+        "ta_year": 40,
+        "is_ammavasai": false,
+        "is_pournami": false,
+        "is_kari_naal": false,
+        "is_sathurthi": false,
+        "is_s_sathurthi": false,
+        "is_shasti": true,
+        "is_egathasi": false,
+        "is_pradosham": false,
+        "is_siva_rathiri": false,
+        "is_thiruvathirai": false,
+        "is_thiruvonam": false,
+        "is_aruthra_darshan": false,
+        "is_kiruthigai": false,
+        "is_chanthira_darshan": false,
+        "day_special": "இன்று தேய்பிறை, சஷ்டி",
+        "good_timings": [
+            {
+                "dur": 60,
+                "msm": 480
+            },
+            {
+                "dur": 60,
+                "msm": 780
+            }
+        ],
+        "gowri_timings": [
+            {
+                "dur": 60,
+                "msm": 630
+            },
+            {
+                "dur": 60,
+                "msm": 720
+            }
+        ],
+        "ema_gandam": {
+            "dur": 90,
+            "msm": 570
+        },
+        "proverb": 287,
+        "noakku": 2,
+        "sun_rise": "6.08",
+        "chandrashtamam_star": [
+            21,
+            22
+        ],
+        "chandrashtamam_rasi": [
+            9,
+            10
+        ],
+        "nama_yogam": [
+            {
+                "msm": 526,
+                "index": 11
+            },
+            {
+                "msm": 1440,
+                "index": 12
+            }
+        ],
+        "karanam_panchangam": [
+            {
+                "msm": 517,
+                "index": 5
+            },
+            {
+                "msm": 1181,
+                "index": 6
+            },
+            {
+                "msm": 1440,
+                "index": 7
+            }
+        ],
+        "is_valar_pirai": false
+    },
+    {
+        "leaders": {
+            "name": "டாக்டர்.அப்துல் கலாம் பிறந்த நாள்",
+            "date": 15,
+            "desc": "ஆவுல் பக்கிர் ஜைனுலாபுதீன் அப்துல் கலாம் (A. P. J. Abdul Kalam, 15 அக்டோபர் 1931 – 27 ஜூலை 2015) பொதுவாக டாக்டர் ஏ. பி. ஜே. அப்துல் கலாம் என்று குறிப்பிடப்படுகிறார். இவர் இந்தியாவின், 11 ஆவது குடியரசு தலைவராக பணியாற்றிய இந்திய அறிவியலாளரும், நிர்வாகியும் ஆவார். இவர் தமிழ்நாட்டில் உள்ள இராமேஸ்வரம் என்ற இடத்தில் பிறந்து வளர்ந்தார். திருச்சிராப்பள்ளியில் உள்ள தூய வளனார் கல்லூரியில் இயற்பியலும் மெட்ராஸ் தொழில்நுட்பக் கல்லூரியில் விண்வெளி பொறியியலும் படித்தார்.",
+            "icon": "kalam"
+        },
+        "ragu": {
+            "dur": 90,
+            "msm": 660
+        },
+        "thithi": [
+            {
+                "msm": 1440,
+                "index": 2
+            },
+            {
+                "msm": 1118,
+                "index": 1
+            }
+        ],
+        "year": 2027,
+        "yogam": [
+            {
+                "msm": 932,
+                "index": 0
+            },
+            {
+                "msm": 1440,
+                "index": 1
+            }
+        ],
+        "month": 10,
+        "star": [
+            {
+                "msm": 1440,
+                "index": 20
+            },
+            {
+                "msm": 1242,
+                "index": 19
+            }
+        ],
+        "visaesam": "நவராத்திரி ஆரம்பம். மதுரை ஸ்ரீ மீனாக்ஷி சொக்கநாதர் கொலு மண்டபத்தில் இராஜராஜேஸ்வரி அலங்காரம். மதுரை தெற்குவாசல் முகையதீன் ஆண்டவர் கொடியேற்றம். டாக்டர். அப்துல்கலாம் பிறந்த நாள்.",
+        "date": 15,
+        "kuligai": {
+            "dur": 90,
+            "msm": 300
+        },
+        "sooranam": {
+            "dur": 90,
+            "msm": 90
+        },
+        "rasi": [
+            59,
+            55,
+            109,
+            97,
+            119,
+            1,
+            80,
+            92,
+            32,
+            50,
+            137,
+            31
+        ],
+        "kattams": [
+            "சனி",
+            "",
+            "",
+            "கேது",
+            "குரு",
+            "சூரி",
+            "புத சுக்",
+            "செவ்",
+            "",
+            "ராகு",
+            "",
+            "சந்"
+        ],
+        "soolam": 1,
+        "parigaram": 0,
+        "sun": {
+            "rise": 360,
+            "set": 1080
+        },
+        "muslim_date": 3,
+        "muslim_month": 5,
+        "ta_date": 29,
+        "ta_month": 6,
+        "ta_year": 40,
+        "is_ammavasai": false,
+        "is_pournami": false,
+        "is_kari_naal": false,
+        "is_sathurthi": false,
+        "is_s_sathurthi": false,
+        "is_shasti": false,
+        "is_egathasi": false,
+        "is_pradosham": false,
+        "is_siva_rathiri": false,
+        "is_thiruvathirai": false,
+        "is_thiruvonam": false,
+        "is_aruthra_darshan": false,
+        "is_kiruthigai": false,
+        "is_chanthira_darshan": false,
+        "day_special": "இன்று தேய்பிறை",
+        "good_timings": [
+            {
+                "dur": 60,
+                "msm": 540
+            },
+            {
+                "dur": 60,
+                "msm": 870
+            }
+        ],
+        "gowri_timings": [
+            {
+                "dur": 60,
+                "msm": 540
+            },
+            {
+                "dur": 60,
+                "msm": 870
+            }
+        ],
+        "ema_gandam": {
+            "dur": 90,
+            "msm": 150
+        },
+        "proverb": 288,
+        "noakku": 1,
+        "sun_rise": "6.06",
+        "chandrashtamam_star": [
+            23
+        ],
+        "chandrashtamam_rasi": [
+            10
+        ],
+        "nama_yogam": [
+            {
+                "msm": 346,
+                "index": 12
+            },
+            {
+                "msm": 1440,
+                "index": 13
+            }
+        ],
+        "karanam_panchangam": [
+            {
+                "msm": 399,
+                "index": 7
+            },
+            {
+                "msm": 1056,
+                "index": 1
+            },
+            {
+                "msm": 1440,
+                "index": 2
+            }
+        ],
+        "is_valar_pirai": false
+    },
+    {
+        "leaders": {
+            "name": "வீர பாண்டிய கட்டபொம்மன் நினைவு தினம்",
+            "date": 16,
+            "icon": "kattabomman",
+            "desc": "வீரபாண்டிய கட்டபொம்மன், தமிழகத்தில் ஆங்கிலேயர் ஆட்சியை எதிர்த்துப் போரிட்ட 18 ஆம் நூற்றாண்டைச் சேர்ந்த பாளையக்காரர் ஆவார். இவர் தெலுங்கு மொழி பேசும் ராஜகம்பளம் நாயக்கர் இனத்தில் பிறந்தவர். இவருடைய முன்னோர்கள் முகமதியர்களின் படையெடுப்புக்குப்பின்பு கம்பிளி ராஜ்ஜியம் இழந்து விஜயநகரம் உருவாக்கினர். பின் சோழ நாட்டிலும், பாண்டிய நாட்டிலும் வாழ்ந்து வந்தனர். பின்பு முகமதியர்கள் சேர, சோழ, பாண்டிய மன்னர்களின் மீது தாக்குதல் நடத்தி நாட்டை கைப்பற்றி 50 ஆண்டுகள் ஆட்சி நடத்தினர். பாண்டிய நாட்டில் கோவில்கள் இடிக்கப்பட்டன. மதுரை மீனாட்சியம்மன் கோவில் அடைக்கப்பட்டது. விஜயநகரப் பேரரசின் படைகள் வந்து, அவர்கள் 3 நாடுகளையும் கைப்பற்றினர். பின்பு பாஞ்சாலங்குறிச்சியை ஆண்ட பாண்டிய மன்னன், வீர பாண்டிய கட்ட பொம்மு முன்னோர்களின் வீரத்தைப் போற்றி பாஞ்சாலங்குறிச்சியைப் பரிசாக வழங்கினார்."
+        },
+        "ragu": {
+            "dur": 90,
+            "msm": 180
+        },
+        "thithi": [
+            {
+                "msm": 1440,
+                "index": 3
+            },
+            {
+                "msm": 1209,
+                "index": 2
+            }
+        ],
+        "year": 2027,
+        "yogam": [
+            {
+                "msm": 574,
+                "index": 1
+            },
+            {
+                "msm": 1440,
+                "index": 2
+            }
+        ],
+        "month": 10,
+        "star": [
+            {
+                "msm": 1125,
+                "index": 20
+            },
+            {
+                "msm": 1440,
+                "index": 21
+            }
+        ],
+        "visaesam": "திருவண்ணாமலை ஸ்ரீ நிவாஸப் பெருமாள் கருட வாகனத்தில் புறப்பாடு.",
+        "date": 16,
+        "kuligai": {
+            "dur": 90,
+            "msm": 750
+        },
+        "sooranam": {
+            "dur": 90,
+            "msm": 0
+        },
+        "rasi": [
+            33,
+            56,
+            105,
+            40,
+            111,
+            35,
+            16,
+            1,
+            59,
+            104,
+            139,
+            31
+        ],
+        "kattams": [
+            "சந் சனி",
+            "",
+            "",
+            "கேது",
+            "குரு",
+            "சூரி",
+            "புத சுக்",
+            "செவ்",
+            "",
+            "ராகு",
+            "",
+            ""
+        ],
+        "soolam": 1,
+        "parigaram": 1,
+        "sun": {
+            "rise": 360,
+            "set": 1080
+        },
+        "muslim_date": 4,
+        "muslim_month": 5,
+        "ta_date": 30,
+        "ta_month": 6,
+        "ta_year": 40,
+        "is_ammavasai": false,
+        "is_pournami": false,
+        "is_kari_naal": false,
+        "is_sathurthi": false,
+        "is_s_sathurthi": false,
+        "is_shasti": false,
+        "is_egathasi": false,
+        "is_pradosham": false,
+        "is_siva_rathiri": false,
+        "is_thiruvathirai": false,
+        "is_thiruvonam": false,
+        "is_aruthra_darshan": false,
+        "is_kiruthigai": false,
+        "is_chanthira_darshan": false,
+        "day_special": "இன்று தேய்பிறை",
+        "good_timings": [
+            {
+                "dur": 60,
+                "msm": 600
+            },
+            {
+                "dur": 60,
+                "msm": 900
+            }
+        ],
+        "gowri_timings": [
+            {
+                "dur": 60,
+                "msm": 510
+            },
+            {
+                "dur": 60,
+                "msm": 1020
+            }
+        ],
+        "ema_gandam": {
+            "dur": 90,
+            "msm": 870
+        },
+        "proverb": 289,
+        "noakku": 1,
+        "sun_rise": "6.02",
+        "chandrashtamam_star": [
+            24
+        ],
+        "chandrashtamam_rasi": [
+            10
+        ],
+        "nama_yogam": [
+            {
+                "msm": 177,
+                "index": 13
+            },
+            {
+                "msm": 1440,
+                "index": 14
+            }
+        ],
+        "karanam_panchangam": [
+            {
+                "msm": 274,
+                "index": 2
+            },
+            {
+                "msm": 921,
+                "index": 3
+            },
+            {
+                "msm": 1440,
+                "index": 4
+            }
+        ],
+        "is_valar_pirai": false
+    },
+    {
+        "leaders": {
+            "name": "கவிஞர் கண்ணதாசன் நினைவு தினம்",
+            "date": 17,
+            "desc": "கண்ணதாசன் (Kannadasan, 24 ஜூன் 1927 – 17 அக்டோபர் 1981) புகழ் பெற்ற தமிழ்த் திரைப்படப் பாடலாசிரியரும், கவிஞரும் ஆவார். நான்காயிரத்திற்கும் மேற்பட்ட கவிதைகள், ஐந்தாயிரத்திற்கும் மேற்பட்ட திரைப்படப் பாடல்கள், கட்டுரைகள் பல எழுதியவர். சண்டமாருதம், திருமகள், திரை ஒலி, தென்றல், தென்றல்திரை, முல்லை, கண்ணதாசன் ஆகிய இதழ்களின் ஆசிரியராக இருந்தவர். தமிழக அரசின் \"அரசவைக் கவிஞராக\" இருந்தவர். இவர் சாகித்ய அகாதமி விருது (1980) பெற்றவர்.",
+            "icon": "kannadasan"
+        },
+        "ragu": {
+            "dur": 90,
+            "msm": 240
+        },
+        "thithi": [
+            {
+                "msm": 1322,
+                "index": 3
+            },
+            {
+                "msm": 1440,
+                "index": 4
+            }
+        ],
+        "year": 2027,
+        "yogam": [
+            {
+                "msm": 1440,
+                "index": 2
+            }
+        ],
+        "month": 10,
+        "star": [
+            {
+                "msm": 1440,
+                "index": 22
+            },
+            {
+                "msm": 1192,
+                "index": 21
+            }
+        ],
+        "visaesam": "திருநெல்வேலி அன்னை ஸ்ரீ காந்திமதியம்மன் அன்ன வாகனத்தில் வீதி உலா. பத்ராசலம் ஸ்ரீ ராமபிரான் புறப்பாடு. சங்கரன் கோயில் கோமதியம்மன் புஷ்பப் பாவாடை தரிசனம். கண்ணதாசன் நினைவு நாள்.",
+        "date": 17,
+        "kuligai": {
+            "dur": 90,
+            "msm": 90
+        },
+        "sooranam": {
+            "dur": 90,
+            "msm": 630
+        },
+        "rasi": [
+            86,
+            122,
+            96,
+            76,
+            66,
+            119,
+            88,
+            94,
+            78,
+            41,
+            8,
+            14
+        ],
+        "kattams": [
+            "சந் சனி",
+            "",
+            "",
+            "கேது",
+            "குரு",
+            "சூரி",
+            "புத சுக்",
+            "செவ்",
+            "",
+            "ராகு",
+            "",
+            ""
+        ],
+        "soolam": 3,
+        "parigaram": 1,
+        "sun": {
+            "rise": 360,
+            "set": 1080
+        },
+        "muslim_date": 5,
+        "muslim_month": 5,
+        "ta_date": 31,
+        "ta_month": 6,
+        "ta_year": 40,
+        "is_ammavasai": false,
+        "is_pournami": false,
+        "is_kari_naal": false,
+        "is_sathurthi": false,
+        "is_s_sathurthi": false,
+        "is_shasti": false,
+        "is_egathasi": false,
+        "is_pradosham": false,
+        "is_siva_rathiri": false,
+        "is_thiruvathirai": false,
+        "is_thiruvonam": false,
+        "is_aruthra_darshan": false,
+        "is_kiruthigai": false,
+        "is_chanthira_darshan": false,
+        "day_special": "இன்று தேய்பிறை",
+        "good_timings": [
+            {
+                "dur": 60,
+                "msm": 570
+            },
+            {
+                "dur": 60,
+                "msm": 780
+            }
+        ],
+        "gowri_timings": [
+            {
+                "dur": 60,
+                "msm": 510
+            },
+            {
+                "dur": 60,
+                "msm": 990
+            }
+        ],
+        "ema_gandam": {
+            "dur": 90,
+            "msm": 900
+        },
+        "proverb": 290,
+        "noakku": 2,
+        "sun_rise": "6.10",
+        "chandrashtamam_star": [
+            25,
+            26
+        ],
+        "chandrashtamam_rasi": [
+            11
+        ],
+        "nama_yogam": [
+            {
+                "msm": 20,
+                "index": 14
+            },
+            {
+                "msm": 1321,
+                "index": 15
+            },
+            {
+                "msm": 1440,
+                "index": 16
+            }
+        ],
+        "karanam_panchangam": [
+            {
+                "msm": 131,
+                "index": 4
+            },
+            {
+                "msm": 780,
+                "index": 5
+            },
+            {
+                "msm": 1440,
+                "index": 6
+            }
+        ],
+        "is_valar_pirai": false
+    },
+    {
+        "leaders": {
+            "name": "தாமஸ் ஆல்வா எடிசன் நினைவு தினம்",
+            "date": 18,
+            "icon": "edison",
+            "desc": "தாமஸ் ஆல்வா எடிசன் (Thomas Alva Edison) பிப்ரவரி 11, 1847 – அக்டோபர் 18, 1931 . ஒரு அமெரிக்கக் கண்டுபிடிப்பாளரும், தொழிலதிபரும் ஆவார். இவர் ஒளி விளக்கு, ஒலிவரைவி, திரைப் படக்கருவி உள்ளிட்ட பல கருவிகளை உருவாக்கினார். திரள் உற்பத்தி, ஒன்றுபட்ட பெரிய குழுப்பணி ஆகிய கோட்பாடுகளைப் பயன்படுத்திய முதல் கண்டுபிடிப்பாளர்களுள் ஒருவர். 1880 ல் எடிசன் அறிவியல் சார்ந்த இதழ் ஒன்றைத் தொடங்கியவர். இது 1900-ஆம் ஆண்டில் அறிவியல் முன்னேற்றத்துக்கான அமெரிக்கக் கழகத்தின் (American Association for the Advancement of Science) இதழானது."
+        },
+        "ragu": {
+            "dur": 90,
+            "msm": 990
+        },
+        "thithi": [
+            {
+                "msm": 1440,
+                "index": 4
+            }
+        ],
+        "year": 2027,
+        "yogam": [
+            {
+                "msm": 880,
+                "index": 2
+            },
+            {
+                "msm": 1440,
+                "index": 0
+            }
+        ],
+        "month": 10,
+        "star": [
+            {
+                "msm": 1440,
+                "index": 23
+            },
+            {
+                "msm": 1198,
+                "index": 22
+            }
+        ],
+        "visaesam": "குற்றாலம், பாபநாசம், திருவெம்பல் இத்தலங்களின் ஸ்ரீசிவபெருமான் விஷூ உற்சவர் தீர்த்தவாரி. சிறியநகசுயம்.",
+        "date": 18,
+        "kuligai": {
+            "dur": 90,
+            "msm": 660
+        },
+        "sooranam": {
+            "dur": 90,
+            "msm": 540
+        },
+        "rasi": [
+            25,
+            24,
+            37,
+            139,
+            116,
+            137,
+            49,
+            32,
+            74,
+            107,
+            65,
+            40
+        ],
+        "kattams": [
+            "சனி",
+            "சந்",
+            "",
+            "கேது",
+            "குரு",
+            "",
+            "சூரி புத சுக்",
+            "செவ்",
+            "",
+            "ராகு",
+            "",
+            ""
+        ],
+        "soolam": 1,
+        "parigaram": 0,
+        "sun": {
+            "rise": 360,
+            "set": 1080
+        },
+        "muslim_date": 6,
+        "muslim_month": 5,
+        "ta_date": 1,
+        "ta_month": 7,
+        "ta_year": 40,
+        "is_ammavasai": false,
+        "is_pournami": false,
+        "is_kari_naal": false,
+        "is_sathurthi": false,
+        "is_s_sathurthi": false,
+        "is_shasti": false,
+        "is_egathasi": false,
+        "is_pradosham": false,
+        "is_siva_rathiri": false,
+        "is_thiruvathirai": false,
+        "is_thiruvonam": false,
+        "is_aruthra_darshan": false,
+        "is_kiruthigai": false,
+        "is_chanthira_darshan": false,
+        "day_special": "இன்று தேய்பிறை",
+        "good_timings": [
+            {
+                "dur": 60,
+                "msm": 390
+            },
+            {
+                "dur": 60,
+                "msm": 840
+            }
+        ],
+        "gowri_timings": [
+            {
+                "dur": 60,
+                "msm": 390
+            },
+            {
+                "dur": 60,
+                "msm": 1020
+            }
+        ],
+        "ema_gandam": {
+            "dur": 90,
+            "msm": 660
+        },
+        "proverb": 291,
+        "noakku": 0,
+        "sun_rise": "5.57",
+        "chandrashtamam_star": [
+            0
+        ],
+        "chandrashtamam_rasi": [
+            0
+        ],
+        "nama_yogam": [
+            {
+                "msm": 1199,
+                "index": 16
+            },
+            {
+                "msm": 1440,
+                "index": 17
+            }
+        ],
+        "karanam_panchangam": [
+            {
+                "msm": 49,
+                "index": 6
+            },
+            {
+                "msm": 637,
+                "index": 7
+            },
+            {
+                "msm": 1287,
+                "index": 1
+            },
+            {
+                "msm": 1440,
+                "index": 2
+            }
+        ],
+        "is_valar_pirai": false
+    },
+    {
+        "leaders": {
+            "icon": "ramalinga_pillai",
+            "desc": "நாமக்கல் கவிஞர் வெ. இராமலிங்கம் பிள்ளை (அக்டோபர் 19, 1888 - ஆகஸ்ட் 24, 1972) தமிழறிஞரும், கவிஞரும் ஆவார். “கத்தியின்றி இரத்தமின்றி யுத்தமொன்று வருகுது” போன்ற தேசபக்திப் பாடல்களைப் பாடிய இவர் தேசியத்தையும், காந்தியத்தையும் போற்றியவர். முதலில் பால கங்காதர திலகர் போன்றவர்களின் தீவிரவாதத்தால் ஈர்க்கப்பட்ட இவர் மகாத்மா காந்தியின் கொள்கைகளால் ஆட்கொள்ளப்பட்ட பின் அறப் போராட்டத்தால் மட்டுமே விடுதலையைப் பெறமுடியும் என்ற முடிவுக்கு வந்தவர். இவரது கவிதைகள் சுதந்திரப் போராட்டத்தைப் பற்றியும் அகிம்சை பற்றியும் இருந்ததால் இவர் காந்தியக் கவிஞர் என அழைக்கப்படுகிறார்.",
+            "date": 19,
+            "name": "வெ. இராமலிங்க பிள்ளை பிறந்த தினம்"
+        },
+        "ragu": {
+            "dur": 90,
+            "msm": 390
+        },
+        "thithi": [
+            {
+                "msm": 5,
+                "index": 4
+            },
+            {
+                "msm": 1440,
+                "index": 5
+            }
+        ],
+        "year": 2027,
+        "yogam": [
+            {
+                "msm": 1440,
+                "index": 1
+            },
+            {
+                "msm": 1247,
+                "index": 0
+            }
+        ],
+        "month": 10,
+        "star": [
+            {
+                "msm": 1141,
+                "index": 23
+            },
+            {
+                "msm": 1440,
+                "index": 24
+            }
+        ],
+        "visaesam": "திருக்கோஷ்டியூர் ஸ்ரீ சௌமிய நாராயணப் பெருமாள் ஊஞ்சல் உற்சவ ஸேவை. திருவாட்டாறு ஸ்ரீ சிவ பெருமான் பவனி வரும் காக்ஷி. ஸ்ரீ பெரும்புதூர் ஸ்ரீ பிள்ளை லோகாச்சாரியார் புறப்பாடு. சிறிய நகசு.",
+        "date": 19,
+        "kuligai": {
+            "dur": 90,
+            "msm": 480
+        },
+        "sooranam": {
+            "dur": 90,
+            "msm": 450
+        },
+        "rasi": [
+            9,
+            91,
+            99,
+            119,
+            83,
+            101,
+            31,
+            16,
+            1,
+            39,
+            29,
+            74
+        ],
+        "kattams": [
+            "சனி",
+            "சந்",
+            "",
+            "கேது",
+            "குரு",
+            "",
+            "சூரி புத சுக்",
+            "செவ்",
+            "",
+            "ராகு",
+            "",
+            ""
+        ],
+        "soolam": 0,
+        "parigaram": 3,
+        "sun": {
+            "rise": 360,
+            "set": 1080
+        },
+        "muslim_date": 7,
+        "muslim_month": 5,
+        "ta_date": 2,
+        "ta_month": 7,
+        "ta_year": 40,
+        "is_ammavasai": false,
+        "is_pournami": false,
+        "is_kari_naal": false,
+        "is_sathurthi": false,
+        "is_s_sathurthi": false,
+        "is_shasti": false,
+        "is_egathasi": false,
+        "is_pradosham": false,
+        "is_siva_rathiri": false,
+        "is_thiruvathirai": false,
+        "is_thiruvonam": false,
+        "is_aruthra_darshan": false,
+        "is_kiruthigai": false,
+        "is_chanthira_darshan": false,
+        "day_special": "இன்று தேய்பிறை",
+        "good_timings": [
+            {
+                "dur": 60,
+                "msm": 510
+            },
+            {
+                "dur": 60,
+                "msm": 720
+            }
+        ],
+        "gowri_timings": [
+            {
+                "dur": 60,
+                "msm": 630
+            },
+            {
+                "dur": 60,
+                "msm": 960
+            }
+        ],
+        "ema_gandam": {
+            "dur": 90,
+            "msm": 750
+        },
+        "proverb": 292,
+        "noakku": 0,
+        "sun_rise": "6.08",
+        "chandrashtamam_star": [
+            1
+        ],
+        "chandrashtamam_rasi": [
+            0
+        ],
+        "nama_yogam": [
+            {
+                "msm": 1099,
+                "index": 17
+            },
+            {
+                "msm": 1440,
+                "index": 18
+            }
+        ],
+        "karanam_panchangam": [
+            {
+                "msm": 497,
+                "index": 2
+            },
+            {
+                "msm": 1153,
+                "index": 3
+            },
+            {
+                "msm": 1440,
+                "index": 4
+            }
+        ],
+        "is_valar_pirai": false
+    },
+    {
+        "ragu": {
+            "dur": 90,
+            "msm": 750
+        },
+        "hindu": {
+            "icon": "diwali",
+            "date": 20,
+            "desc": "தீபங்கள் ஒளி வீச…பட்டாசுகள் வெடித்து மக்கள் மகிழ்ச்சியாய் கொண்டாடும் மாபெரும் விழா.",
+            "name": "தீபாவளிப் பண்டிகை"
+        },
+        "thithi": [
+            {
+                "msm": 131,
+                "index": 5
+            },
+            {
+                "msm": 1440,
+                "index": 6
+            }
+        ],
+        "year": 2027,
+        "yogam": [
+            {
+                "msm": 768,
+                "index": 1
+            },
+            {
+                "msm": 1440,
+                "index": 2
+            }
+        ],
+        "month": 10,
+        "date": 20,
+        "visaesam": "திருப்பரங்குன்றம் ஸ்ரீஆண்டவர் தங்கமயில் வாகனத்தில் புறப்பாடு. உத்தரமாயூரம் ஸ்ரீவள்ளலார் ஸன்னதியில் ஸ்ரீசந்திரசேகரர் புறப்பாடு. திருமயம் காட்டுபாவா உருஸ்.",
+        "star": [
+            {
+                "msm": 1440,
+                "index": 25
+            },
+            {
+                "msm": 1027,
+                "index": 24
+            }
+        ],
+        "kuligai": {
+            "dur": 90,
+            "msm": 690
+        },
+        "rasi": [
+            101,
+            69,
+            136,
+            37,
+            76,
+            59,
+            33,
+            119,
+            39,
+            81,
+            40,
+            132
+        ],
+        "kattams": [
+            "சனி",
+            "சந்",
+            "",
+            "கேது",
+            "குரு",
+            "",
+            "சூரி புத சுக்",
+            "செவ்",
+            "",
+            "ராகு",
+            "",
+            ""
+        ],
+        "sooranam": {
+            "dur": 90,
+            "msm": 360
+        },
+        "soolam": 1,
+        "parigaram": 3,
+        "sun": {
+            "rise": 360,
+            "set": 1080
+        },
+        "muslim_date": 8,
+        "muslim_month": 5,
+        "ta_date": 3,
+        "ta_month": 7,
+        "ta_year": 40,
+        "is_ammavasai": false,
+        "is_pournami": false,
+        "is_kari_naal": true,
+        "is_sathurthi": false,
+        "is_s_sathurthi": false,
+        "is_shasti": false,
+        "is_egathasi": false,
+        "is_pradosham": false,
+        "is_siva_rathiri": false,
+        "is_thiruvathirai": false,
+        "is_thiruvonam": false,
+        "is_aruthra_darshan": false,
+        "is_kiruthigai": false,
+        "is_chanthira_darshan": false,
+        "day_special": "இன்று தேய்பிறை, கரி நாள்",
+        "good_timings": [
+            {
+                "dur": 60,
+                "msm": 540
+            },
+            {
+                "dur": 60,
+                "msm": 930
+            }
+        ],
+        "gowri_timings": [
+            {
+                "dur": 60,
+                "msm": 630
+            },
+            {
+                "dur": 60,
+                "msm": 750
+            }
+        ],
+        "ema_gandam": {
+            "dur": 90,
+            "msm": 510
+        },
+        "proverb": 293,
+        "noakku": 2,
+        "sun_rise": "5.51",
+        "chandrashtamam_star": [
+            2
+        ],
+        "chandrashtamam_rasi": [
+            0,
+            1
+        ],
+        "nama_yogam": [
+            {
+                "msm": 1022,
+                "index": 18
+            },
+            {
+                "msm": 1440,
+                "index": 19
+            }
+        ],
+        "karanam_panchangam": [
+            {
+                "msm": 369,
+                "index": 4
+            },
+            {
+                "msm": 1025,
+                "index": 5
+            },
+            {
+                "msm": 1440,
+                "index": 6
+            }
+        ],
+        "is_valar_pirai": false,
+        "government_holiday": {
+            "name": "தீபாவளிப் பண்டிகை",
+            "icon": "diwali",
+            "desc": "தீபங்கள் ஒளி வீச..பட்டாசுகளை வெடித்து மக்கள் தங்கள் மகிழ்ச்சியை கொண்டாடும் திருநாள்",
+            "date": 20
+        }
+    },
+    {
+        "ragu": {
+            "dur": 90,
+            "msm": 120
+        },
+        "thithi": [
+            {
+                "msm": 1440,
+                "index": 7
+            },
+            {
+                "msm": 251,
+                "index": 6
+            }
+        ],
+        "year": 2027,
+        "yogam": [
+            {
+                "msm": 1440,
+                "index": 0
+            },
+            {
+                "msm": 1078,
+                "index": 2
+            }
+        ],
+        "date": 21,
+        "month": 10,
+        "visaesam": "சர்வ அமாவாஸ்யை. திருவனந்தபுரம் திருவட்டாறு இத்தலங்களில் ஸ்ரீசிவபெருமான் புறப்பாடு. இன்று மழை பெய்ய வாய்ப்பு.",
+        "star": [
+            {
+                "msm": 1440,
+                "index": 26
+            },
+            {
+                "msm": 1158,
+                "index": 25
+            }
+        ],
+        "kuligai": {
+            "dur": 90,
+            "msm": 360
+        },
+        "sooranam": {
+            "dur": 90,
+            "msm": 180
+        },
+        "rasi": [
+            22,
+            90,
+            54,
+            125,
+            139,
+            96,
+            2,
+            82,
+            104,
+            101,
+            47,
+            112
+        ],
+        "kattams": [
+            "",
+            "",
+            "சந்",
+            "கேது",
+            "குரு",
+            "",
+            "சூரி புத சுக்",
+            "செவ்",
+            "",
+            "ராகு",
+            "",
+            "சனி"
+        ],
+        "soolam": 3,
+        "ashtami": {
+            "date": 21,
+            "icon": "ic_astami_navami",
+            "name": "அஷ்டமி",
+            "desc": "இன்று அதிகாலை 04.11 வரை சப்தமி பின்பு அஷ்டமி"
+        },
+        "parigaram": 3,
+        "sun": {
+            "rise": 360,
+            "set": 1080
+        },
+        "muslim_date": 9,
+        "muslim_month": 5,
+        "ta_date": 4,
+        "ta_month": 7,
+        "ta_year": 40,
+        "is_ammavasai": false,
+        "is_pournami": false,
+        "is_kari_naal": false,
+        "is_sathurthi": true,
+        "is_s_sathurthi": false,
+        "is_shasti": false,
+        "is_egathasi": false,
+        "is_pradosham": false,
+        "is_siva_rathiri": false,
+        "is_thiruvathirai": false,
+        "is_thiruvonam": false,
+        "is_aruthra_darshan": false,
+        "is_kiruthigai": false,
+        "is_chanthira_darshan": false,
+        "day_special": "இன்று தேய்பிறை, சதுர்த்தி",
+        "good_timings": [
+            {
+                "dur": 60,
+                "msm": 420
+            },
+            {
+                "dur": 60,
+                "msm": 960
+            }
+        ],
+        "gowri_timings": [
+            {
+                "dur": 60,
+                "msm": 360
+            },
+            {
+                "dur": 60,
+                "msm": 870
+            }
+        ],
+        "ema_gandam": {
+            "dur": 90,
+            "msm": 780
+        },
+        "proverb": 294,
+        "noakku": 2,
+        "sun_rise": "5.46",
+        "chandrashtamam_star": [
+            3
+        ],
+        "chandrashtamam_rasi": [
+            1
+        ],
+        "nama_yogam": [
+            {
+                "msm": 969,
+                "index": 19
+            },
+            {
+                "msm": 1440,
+                "index": 20
+            }
+        ],
+        "karanam_panchangam": [
+            {
+                "msm": 240,
+                "index": 6
+            },
+            {
+                "msm": 896,
+                "index": 7
+            },
+            {
+                "msm": 1440,
+                "index": 1
+            }
+        ],
+        "is_valar_pirai": false
+    },
+    {
+        "ragu": {
+            "dur": 90,
+            "msm": 990
+        },
+        "hindu": {
+            "date": 22,
+            "desc": "இன்று முதல் கந்த சஷ்டி ஆரம்பம்.",
+            "icon": "kanta_sasti_arambam",
+            "name": "கந்த சஷ்டி ஆரம்பம்"
+        },
+        "thithi": [
+            {
+                "msm": 1440,
+                "index": 8
+            },
+            {
+                "msm": 353,
+                "index": 7
+            }
+        ],
+        "year": 2027,
+        "yogam": [
+            {
+                "msm": 1440,
+                "index": 1
+            },
+            {
+                "msm": 1087,
+                "index": 0
+            }
+        ],
+        "month": 10,
+        "date": 22,
+        "visaesam": "தூத்துக்குடி ஸ்ரீ பாகம்பிரியாள், தென்காசி ஸ்ரீஉலகம்மை இத்தலங்களில் பவனி. உத்திரமாயூரம் ஸ்ரீவள்ளலார் ஸன்னதியில் ஸ்ரீசந்திரசேகரர் புறப்பாடு.",
+        "star": [
+            {
+                "msm": 1348,
+                "index": 26
+            },
+            {
+                "msm": 1440,
+                "index": 0
+            }
+        ],
+        "kuligai": {
+            "dur": 90,
+            "msm": 720
+        },
+        "navami": {
+            "name": "நவமி",
+            "date": 22,
+            "icon": "ic_astami_navami",
+            "desc": "இன்று காலை 05.53 வரை அஷ்டமி பின்பு நவமி"
+        },
+        "rasi": [
+            53,
+            137,
+            123,
+            41,
+            107,
+            61,
+            125,
+            118,
+            6,
+            121,
+            124,
+            4
+        ],
+        "kattams": [
+            "",
+            "",
+            "சந்",
+            "கேது",
+            "குரு",
+            "புத",
+            "சூரி சுக்",
+            "செவ்",
+            "",
+            "ராகு",
+            "",
+            "சனி"
+        ],
+        "sooranam": {
+            "dur": 90,
+            "msm": 90
+        },
+        "soolam": 3,
+        "parigaram": 0,
+        "sun": {
+            "rise": 360,
+            "set": 1080
+        },
+        "muslim_date": 10,
+        "muslim_month": 5,
+        "ta_date": 5,
+        "ta_month": 7,
+        "ta_year": 40,
+        "is_ammavasai": false,
+        "is_pournami": false,
+        "is_kari_naal": false,
+        "is_sathurthi": false,
+        "is_s_sathurthi": false,
+        "is_shasti": false,
+        "is_egathasi": false,
+        "is_pradosham": false,
+        "is_siva_rathiri": false,
+        "is_thiruvathirai": false,
+        "is_thiruvonam": false,
+        "is_aruthra_darshan": false,
+        "is_kiruthigai": false,
+        "is_chanthira_darshan": false,
+        "day_special": "இன்று தேய்பிறை",
+        "good_timings": [
+            {
+                "dur": 60,
+                "msm": 450
+            },
+            {
+                "dur": 60,
+                "msm": 840
+            }
+        ],
+        "gowri_timings": [
+            {
+                "dur": 60,
+                "msm": 570
+            },
+            {
+                "dur": 60,
+                "msm": 810
+            }
+        ],
+        "ema_gandam": {
+            "dur": 90,
+            "msm": 480
+        },
+        "proverb": 295,
+        "noakku": 2,
+        "sun_rise": "6.11",
+        "chandrashtamam_star": [
+            4
+        ],
+        "chandrashtamam_rasi": [
+            1,
+            2
+        ],
+        "nama_yogam": [
+            {
+                "msm": 942,
+                "index": 20
+            },
+            {
+                "msm": 1440,
+                "index": 21
+            }
+        ],
+        "karanam_panchangam": [
+            {
+                "msm": 147,
+                "index": 1
+            },
+            {
+                "msm": 821,
+                "index": 2
+            },
+            {
+                "msm": 1440,
+                "index": 3
+            }
+        ],
+        "is_valar_pirai": false
+    },
+    {
+        "ragu": {
+            "dur": 90,
+            "msm": 150
+        },
+        "thithi": [
+            {
+                "msm": 1440,
+                "index": 9
+            },
+            {
+                "msm": 438,
+                "index": 8
+            }
+        ],
+        "year": 2027,
+        "yogam": [
+            {
+                "msm": 1440,
+                "index": 2
+            },
+            {
+                "msm": 670,
+                "index": 1
+            }
+        ],
+        "star": [
+            {
+                "msm": 1239,
+                "index": 0
+            },
+            {
+                "msm": 1440,
+                "index": 1
+            }
+        ],
+        "month": 10,
+        "visaesam": "சந்திரோதய கௌரீ விரதம். திருச்செந்தூர் ஸ்ரீ முருகன் புறப்பாடு. ஸ்ரீ உமா விரதம்.",
+        "date": 23,
+        "kuligai": {
+            "dur": 90,
+            "msm": 570
+        },
+        "sooranam": {
+            "dur": 90,
+            "msm": 0
+        },
+        "rasi": [
+            106,
+            64,
+            49,
+            81,
+            35,
+            96,
+            9,
+            112,
+            59,
+            128,
+            114,
+            77
+        ],
+        "kattams": [
+            "",
+            "",
+            "",
+            "சந் கேது",
+            "குரு",
+            "புத",
+            "சூரி சுக்",
+            "செவ்",
+            "",
+            "ராகு",
+            "",
+            "சனி"
+        ],
+        "soolam": 2,
+        "parigaram": 3,
+        "sun": {
+            "rise": 360,
+            "set": 1080
+        },
+        "muslim_date": 11,
+        "muslim_month": 5,
+        "ta_date": 6,
+        "ta_month": 7,
+        "ta_year": 40,
+        "is_ammavasai": false,
+        "is_pournami": false,
+        "is_kari_naal": false,
+        "is_sathurthi": false,
+        "is_s_sathurthi": false,
+        "is_shasti": false,
+        "is_egathasi": false,
+        "is_pradosham": false,
+        "is_siva_rathiri": true,
+        "is_thiruvathirai": false,
+        "is_thiruvonam": false,
+        "is_aruthra_darshan": false,
+        "is_kiruthigai": false,
+        "is_chanthira_darshan": false,
+        "day_special": "இன்று தேய்பிறை, சிவராத்திரி",
+        "good_timings": [
+            {
+                "dur": 60,
+                "msm": 360
+            },
+            {
+                "dur": 60,
+                "msm": 870
+            }
+        ],
+        "gowri_timings": [
+            {
+                "dur": 60,
+                "msm": 510
+            },
+            {
+                "dur": 60,
+                "msm": 930
+            }
+        ],
+        "ema_gandam": {
+            "dur": 90,
+            "msm": 540
+        },
+        "proverb": 296,
+        "noakku": 1,
+        "sun_rise": "6.20",
+        "chandrashtamam_star": [
+            5,
+            6
+        ],
+        "chandrashtamam_rasi": [
+            2,
+            3
+        ],
+        "nama_yogam": [
+            {
+                "msm": 934,
+                "index": 21
+            },
+            {
+                "msm": 1440,
+                "index": 22
+            }
+        ],
+        "karanam_panchangam": [
+            {
+                "msm": 68,
+                "index": 3
+            },
+            {
+                "msm": 749,
+                "index": 4
+            },
+            {
+                "msm": 1440,
+                "index": 5
+            }
+        ],
+        "is_valar_pirai": false
+    },
+    {
+        "ragu": {
+            "dur": 90,
+            "msm": 750
+        },
+        "muslim": {
+            "date": 24,
+            "desc": "",
+            "name": "ஹஸரத் உமார் பிறந்தநாள்",
+            "icon": "hazrat_umar"
+        },
+        "thithi": [
+            {
+                "msm": 489,
+                "index": 9
+            },
+            {
+                "msm": 1440,
+                "index": 10
+            }
+        ],
+        "year": 2027,
+        "yogam": [
+            {
+                "msm": 1440,
+                "index": 2
+            }
+        ],
+        "date": 24,
+        "month": 10,
+        "visaesam": "ஸ்ரீகால பைரவர்க்கு அபிஷேக ஆராதனை செய்ய நன்று. திருத்தணி ஸ்ரீ முருகப்பெருமான் பால் அபிஷேகம். சக்தி நாயனார் குருபூஜை",
+        "star": [
+            {
+                "msm": 1440,
+                "index": 2
+            },
+            {
+                "msm": 1370,
+                "index": 1
+            }
+        ],
+        "kuligai": {
+            "dur": 90,
+            "msm": 510
+        },
+        "sooranam": {
+            "dur": 90,
+            "msm": 630
+        },
+        "rasi": [
+            10,
+            16,
+            95,
+            28,
+            66,
+            92,
+            36,
+            126,
+            84,
+            15,
+            24,
+            26
+        ],
+        "kattams": [
+            "",
+            "",
+            "",
+            "சந் கேது",
+            "குரு",
+            "புத",
+            "சூரி சுக்",
+            "செவ்",
+            "",
+            "ராகு",
+            "",
+            "சனி"
+        ],
+        "soolam": 3,
+        "parigaram": 1,
+        "sun": {
+            "rise": 360,
+            "set": 1080
+        },
+        "muslim_date": 12,
+        "muslim_month": 5,
+        "ta_date": 7,
+        "ta_month": 7,
+        "ta_year": 40,
+        "is_ammavasai": false,
+        "is_pournami": false,
+        "is_kari_naal": false,
+        "is_sathurthi": false,
+        "is_s_sathurthi": false,
+        "is_shasti": false,
+        "is_egathasi": false,
+        "is_pradosham": false,
+        "is_siva_rathiri": false,
+        "is_thiruvathirai": false,
+        "is_thiruvonam": false,
+        "is_aruthra_darshan": false,
+        "is_kiruthigai": false,
+        "is_chanthira_darshan": false,
+        "day_special": "இன்று தேய்பிறை",
+        "good_timings": [
+            {
+                "dur": 60,
+                "msm": 540
+            },
+            {
+                "dur": 60,
+                "msm": 930
+            }
+        ],
+        "gowri_timings": [
+            {
+                "dur": 60,
+                "msm": 360
+            },
+            {
+                "dur": 60,
+                "msm": 780
+            }
+        ],
+        "ema_gandam": {
+            "dur": 90,
+            "msm": 510
+        },
+        "proverb": 297,
+        "noakku": 0,
+        "sun_rise": "6.04",
+        "chandrashtamam_star": [
+            7,
+            8
+        ],
+        "chandrashtamam_rasi": [
+            3
+        ],
+        "nama_yogam": [
+            {
+                "msm": 946,
+                "index": 22
+            },
+            {
+                "msm": 1440,
+                "index": 23
+            }
+        ],
+        "karanam_panchangam": [
+            {
+                "msm": 15,
+                "index": 5
+            },
+            {
+                "msm": 709,
+                "index": 6
+            },
+            {
+                "msm": 1430,
+                "index": 7
+            },
+            {
+                "msm": 1440,
+                "index": 1
+            }
+        ],
+        "is_valar_pirai": false
+    },
+    {
+        "ragu": {
+            "dur": 90,
+            "msm": 600
+        },
+        "thithi": [
+            {
+                "msm": 512,
+                "index": 10
+            },
+            {
+                "msm": 1440,
+                "index": 11
+            }
+        ],
+        "year": 2027,
+        "yogam": [
+            {
+                "msm": 131,
+                "index": 2
+            },
+            {
+                "msm": 1440,
+                "index": 0
+            }
+        ],
+        "star": [
+            {
+                "msm": 1440,
+                "index": 2
+            }
+        ],
+        "month": 10,
+        "visaesam": "ஸர்வ ஏகாதசி. திருமாலிருஞ்சோலை ஸ்ரீ கள்ளழகர் சயன உற்சவம். பேயாழ்வார் திருநக்ஷத்திரம். சுப முகூர்த்த தினம். 1038 ஆவது ராஜராஜ சோழன் சதய விழா.",
+        "date": 25,
+        "kuligai": {
+            "dur": 90,
+            "msm": 990
+        },
+        "sooranam": {
+            "dur": 90,
+            "msm": 540
+        },
+        "rasi": [
+            17,
+            51,
+            103,
+            84,
+            87,
+            96,
+            46,
+            32,
+            83,
+            65,
+            112,
+            1
+        ],
+        "kattams": [
+            "",
+            "",
+            "",
+            "கேது",
+            "சந் குரு",
+            "புத",
+            "சூரி சுக்",
+            "செவ்",
+            "",
+            "ராகு",
+            "",
+            "சனி"
+        ],
+        "soolam": 2,
+        "parigaram": 0,
+        "sun": {
+            "rise": 360,
+            "set": 1080
+        },
+        "muslim_date": 13,
+        "muslim_month": 5,
+        "ta_date": 8,
+        "ta_month": 7,
+        "ta_year": 40,
+        "is_ammavasai": false,
+        "is_pournami": false,
+        "is_kari_naal": true,
+        "is_sathurthi": false,
+        "is_s_sathurthi": false,
+        "is_shasti": false,
+        "is_egathasi": false,
+        "is_pradosham": true,
+        "is_siva_rathiri": false,
+        "is_thiruvathirai": false,
+        "is_thiruvonam": false,
+        "is_aruthra_darshan": false,
+        "is_kiruthigai": false,
+        "is_chanthira_darshan": false,
+        "day_special": "இன்று தேய்பிறை, கரி நாள், பிரதோஷம்",
+        "good_timings": [
+            {
+                "dur": 60,
+                "msm": 360
+            },
+            {
+                "dur": 60,
+                "msm": 780
+            }
+        ],
+        "gowri_timings": [
+            {
+                "dur": 60,
+                "msm": 360
+            },
+            {
+                "dur": 60,
+                "msm": 870
+            }
+        ],
+        "ema_gandam": {
+            "dur": 90,
+            "msm": 660
+        },
+        "proverb": 298,
+        "noakku": 1,
+        "sun_rise": "5.48",
+        "chandrashtamam_star": [
+            9,
+            10
+        ],
+        "chandrashtamam_rasi": [
+            4,
+            11
+        ],
+        "nama_yogam": [
+            {
+                "msm": 973,
+                "index": 23
+            },
+            {
+                "msm": 1440,
+                "index": 24
+            }
+        ],
+        "karanam_panchangam": [
+            {
+                "msm": 714,
+                "index": 1
+            },
+            {
+                "msm": 1437,
+                "index": 2
+            },
+            {
+                "msm": 1440,
+                "index": 3
+            }
+        ],
+        "is_valar_pirai": false
+    },
+    {
+        "ragu": {
+            "dur": 90,
+            "msm": 90
+        },
+        "thithi": [
+            {
+                "msm": 503,
+                "index": 11
+            },
+            {
+                "msm": 1440,
+                "index": 12
+            }
+        ],
+        "year": 2027,
+        "yogam": [
+            {
+                "msm": 1440,
+                "index": 2
+            },
+            {
+                "msm": 1402,
+                "index": 1
+            },
+            {
+                "msm": 440,
+                "index": 0
+            }
+        ],
+        "star": [
+            {
+                "msm": 113,
+                "index": 2
+            },
+            {
+                "msm": 1440,
+                "index": 3
+            }
+        ],
+        "month": 10,
+        "visaesam": "சிக்கல் ஸ்ரீசிங்காரவேலவர் ரதோத்ஸவம். இரவு உமா தேவியாருடன் சக்திவேல் வாங்குதல். சிறிய நகசு.",
+        "date": 26,
+        "kuligai": {
+            "dur": 90,
+            "msm": 840
+        },
+        "sooranam": {
+            "dur": 90,
+            "msm": 450
+        },
+        "rasi": [
+            53,
+            76,
+            123,
+            119,
+            24,
+            7,
+            38,
+            82,
+            9,
+            66,
+            23,
+            21
+        ],
+        "kattams": [
+            "",
+            "",
+            "",
+            "கேது",
+            "சந் குரு",
+            "புத",
+            "சூரி சுக்",
+            "செவ்",
+            "",
+            "ராகு",
+            "",
+            "சனி"
+        ],
+        "soolam": 3,
+        "parigaram": 1,
+        "sun": {
+            "rise": 360,
+            "set": 1080
+        },
+        "muslim_date": 14,
+        "muslim_month": 5,
+        "ta_date": 9,
+        "ta_month": 7,
+        "ta_year": 40,
+        "is_ammavasai": false,
+        "is_pournami": false,
+        "is_kari_naal": false,
+        "is_sathurthi": false,
+        "is_s_sathurthi": false,
+        "is_shasti": false,
+        "is_egathasi": true,
+        "is_pradosham": false,
+        "is_siva_rathiri": false,
+        "is_thiruvathirai": false,
+        "is_thiruvonam": false,
+        "is_aruthra_darshan": false,
+        "is_kiruthigai": false,
+        "is_chanthira_darshan": false,
+        "day_special": "இன்று தேய்பிறை, ஏகாதசி",
+        "good_timings": [
+            {
+                "dur": 60,
+                "msm": 420
+            },
+            {
+                "dur": 60,
+                "msm": 750
+            }
+        ],
+        "gowri_timings": [
+            {
+                "dur": 60,
+                "msm": 510
+            },
+            {
+                "dur": 60,
+                "msm": 960
+            }
+        ],
+        "ema_gandam": {
+            "dur": 90,
+            "msm": 690
+        },
+        "proverb": 299,
+        "noakku": 0,
+        "sun_rise": "5.52",
+        "chandrashtamam_star": [
+            11,
+            12
+        ],
+        "chandrashtamam_rasi": [
+            5
+        ],
+        "nama_yogam": [
+            {
+                "msm": 1067,
+                "index": 24
+            },
+            {
+                "msm": 1440,
+                "index": 25
+            }
+        ],
+        "karanam_panchangam": [
+            {
+                "msm": 736,
+                "index": 3
+            },
+            {
+                "msm": 1440,
+                "index": 4
+            }
+        ],
+        "is_valar_pirai": false
+    },
+    {
+        "ragu": {
+            "dur": 90,
+            "msm": 720
+        },
+        "hindu": {
+            "name": "கந்த சஷ்டி சூரசம்ஹாரம்",
+            "date": 27,
+            "desc": "சூரனை முருகப் பெருமான் சம்ஹாரம் செய்த தினம் இன்று",
+            "icon": "kanta_sasti_sura_samkaram"
+        },
+        "thithi": [
+            {
+                "msm": 1440,
+                "index": 13
+            },
+            {
+                "msm": 450,
+                "index": 12
+            }
+        ],
+        "year": 2027,
+        "yogam": [
+            {
+                "msm": 1440,
+                "index": 2
+            }
+        ],
+        "date": 27,
+        "month": 10,
+        "visaesam": "அவமாகம். சங்கரன் கோயில் ஸ்ரீ கோமதியம்மன் தங்க பாவாடை தரிசனம். மருதுபாண்டியர் தினம். சுப முகூர்த்தம். தென்னை, மா, பலா, புளி வைக்க நன்று.",
+        "star": [
+            {
+                "msm": 303,
+                "index": 3
+            },
+            {
+                "msm": 1440,
+                "index": 4
+            }
+        ],
+        "kuligai": {
+            "dur": 90,
+            "msm": 780
+        },
+        "sooranam": {
+            "dur": 90,
+            "msm": 360
+        },
+        "rasi": [
+            59,
+            136,
+            89,
+            91,
+            132,
+            28,
+            93,
+            101,
+            112,
+            118,
+            7,
+            77
+        ],
+        "kattams": [
+            "",
+            "",
+            "",
+            "கேது",
+            "குரு",
+            "சந் புத",
+            "சூரி சுக்",
+            "செவ்",
+            "",
+            "ராகு",
+            "",
+            "சனி"
+        ],
+        "soolam": 1,
+        "parigaram": 0,
+        "sun": {
+            "rise": 360,
+            "set": 1080
+        },
+        "muslim_date": 15,
+        "muslim_month": 5,
+        "ta_date": 10,
+        "ta_month": 7,
+        "ta_year": 40,
+        "is_ammavasai": false,
+        "is_pournami": false,
+        "is_kari_naal": false,
+        "is_sathurthi": false,
+        "is_s_sathurthi": true,
+        "is_shasti": false,
+        "is_egathasi": false,
+        "is_pradosham": false,
+        "is_siva_rathiri": false,
+        "is_thiruvathirai": false,
+        "is_thiruvonam": false,
+        "is_aruthra_darshan": false,
+        "is_kiruthigai": false,
+        "is_chanthira_darshan": false,
+        "day_special": "இன்று தேய்பிறை, சங்கடஹர சதுர்த்தி",
+        "good_timings": [
+            {
+                "dur": 60,
+                "msm": 390
+            },
+            {
+                "dur": 60,
+                "msm": 900
+            }
+        ],
+        "gowri_timings": [
+            {
+                "dur": 60,
+                "msm": 420
+            },
+            {
+                "dur": 60,
+                "msm": 780
+            }
+        ],
+        "ema_gandam": {
+            "dur": 90,
+            "msm": 360
+        },
+        "proverb": 300,
+        "noakku": 2,
+        "sun_rise": "5.40",
+        "chandrashtamam_star": [
+            13,
+            14
+        ],
+        "chandrashtamam_rasi": [
+            6
+        ],
+        "nama_yogam": [
+            {
+                "msm": 1041,
+                "index": 25
+            },
+            {
+                "msm": 1440,
+                "index": 26
+            }
+        ],
+        "karanam_panchangam": [
+            {
+                "msm": 35,
+                "index": 4
+            },
+            {
+                "msm": 818,
+                "index": 5
+            },
+            {
+                "msm": 1440,
+                "index": 6
+            }
+        ],
+        "is_valar_pirai": false
+    },
+    {
+        "ragu": {
+            "dur": 90,
+            "msm": 570
+        },
+        "thithi": [
+            {
+                "msm": 394,
+                "index": 13
+            },
+            {
+                "msm": 1440,
+                "index": 14
+            }
+        ],
+        "year": 2027,
+        "yogam": [
+            {
+                "msm": 1440,
+                "index": 2
+            }
+        ],
+        "star": [
+            {
+                "msm": 306,
+                "index": 4
+            },
+            {
+                "msm": 1440,
+                "index": 5
+            }
+        ],
+        "month": 10,
+        "visaesam": "ஸ்ரீரங்கம் நம்பெருமான் சந்தன மண்டபம் எழுந்தருளி அலங்கார திருழஞ்சன ஸேவை. வாஸ்துநாள் காலை மணி 7.44 மணி 8.20 மணி வரை வாஸ்து செய்ய நன்று. சிறிய நகசு.",
+        "date": 28,
+        "kuligai": {
+            "dur": 90,
+            "msm": 510
+        },
+        "sooranam": {
+            "dur": 90,
+            "msm": 180
+        },
+        "rasi": [
+            37,
+            70,
+            125,
+            26,
+            28,
+            56,
+            133,
+            142,
+            120,
+            35,
+            81,
+            43
+        ],
+        "kattams": [
+            "",
+            "",
+            "",
+            "கேது",
+            "குரு",
+            "சந் புத",
+            "சூரி",
+            "சுக் செவ்",
+            "",
+            "ராகு",
+            "",
+            "சனி"
+        ],
+        "soolam": 1,
+        "parigaram": 3,
+        "sun": {
+            "rise": 360,
+            "set": 1080
+        },
+        "muslim_date": 16,
+        "muslim_month": 5,
+        "ta_date": 11,
+        "ta_month": 7,
+        "ta_year": 40,
+        "is_ammavasai": true,
+        "is_pournami": false,
+        "is_kari_naal": false,
+        "is_sathurthi": false,
+        "is_s_sathurthi": false,
+        "is_shasti": false,
+        "is_egathasi": false,
+        "is_pradosham": false,
+        "is_siva_rathiri": false,
+        "is_thiruvathirai": false,
+        "is_thiruvonam": false,
+        "is_aruthra_darshan": false,
+        "is_kiruthigai": false,
+        "is_chanthira_darshan": false,
+        "day_special": "இன்று அமாவாசை",
+        "good_timings": [
+            {
+                "dur": 60,
+                "msm": 420
+            },
+            {
+                "dur": 60,
+                "msm": 930
+            }
+        ],
+        "gowri_timings": [
+            {
+                "dur": 60,
+                "msm": 390
+            },
+            {
+                "dur": 60,
+                "msm": 750
+            }
+        ],
+        "ema_gandam": {
+            "dur": 90,
+            "msm": 900
+        },
+        "proverb": 301,
+        "noakku": 2,
+        "sun_rise": "6.10",
+        "chandrashtamam_star": [
+            15,
+            16
+        ],
+        "chandrashtamam_rasi": [
+            7
+        ],
+        "nama_yogam": [
+            {
+                "msm": 1067,
+                "index": 26
+            },
+            {
+                "msm": 1440,
+                "index": 0
+            }
+        ],
+        "karanam_panchangam": [
+            {
+                "msm": 101,
+                "index": 6
+            },
+            {
+                "msm": 867,
+                "index": 7
+            },
+            {
+                "msm": 1440,
+                "index": 1
+            }
+        ],
+        "is_valar_pirai": false
+    },
+    {
+        "ragu": {
+            "dur": 90,
+            "msm": 780
+        },
+        "thithi": [
+            {
+                "msm": 1440,
+                "index": 0
+            },
+            {
+                "msm": 290,
+                "index": 14
+            }
+        ],
+        "year": 2027,
+        "yogam": [
+            {
+                "msm": 1440,
+                "index": 0
+            },
+            {
+                "msm": 511,
+                "index": 2
+            }
+        ],
+        "star": [
+            {
+                "msm": 1440,
+                "index": 6
+            },
+            {
+                "msm": 490,
+                "index": 5
+            }
+        ],
+        "month": 10,
+        "visaesam": "திருநெல்வேலி ஸ்ரீ காந்திமதி அம்மன் உற்சவம் ஆரம்பம். பூங்கோயில் சப்பரத்தில் பவனி. திருப்போரூர் ஸ்ரீ முருகப் பெருமான் சிறப்பு அபிஷேகம், ஆராதனை விழா. கோவில்பட்டி ஸ்ரீ செண்பக வல்லியம்மன் புறப்பாடு.",
+        "date": 29,
+        "kuligai": {
+            "dur": 90,
+            "msm": 210
+        },
+        "sooranam": {
+            "dur": 90,
+            "msm": 90
+        },
+        "rasi": [
+            139,
+            22,
+            136,
+            92,
+            26,
+            31,
+            118,
+            28,
+            109,
+            36,
+            110,
+            104
+        ],
+        "kattams": [
+            "",
+            "",
+            "",
+            "கேது",
+            "குரு",
+            "புத",
+            "சூரி சந்",
+            "சுக் செவ்",
+            "",
+            "ராகு",
+            "",
+            "சனி"
+        ],
+        "soolam": 1,
+        "parigaram": 3,
+        "sun": {
+            "rise": 360,
+            "set": 1080
+        },
+        "muslim_date": 17,
+        "muslim_month": 5,
+        "ta_date": 12,
+        "ta_month": 7,
+        "ta_year": 40,
+        "is_ammavasai": false,
+        "is_pournami": false,
+        "is_kari_naal": false,
+        "is_sathurthi": false,
+        "is_s_sathurthi": false,
+        "is_shasti": true,
+        "is_egathasi": false,
+        "is_pradosham": false,
+        "is_siva_rathiri": false,
+        "is_thiruvathirai": false,
+        "is_thiruvonam": false,
+        "is_aruthra_darshan": false,
+        "is_kiruthigai": false,
+        "is_chanthira_darshan": false,
+        "day_special": "இன்று வளர்பிறை, சஷ்டி",
+        "good_timings": [
+            {
+                "dur": 60,
+                "msm": 420
+            },
+            {
+                "dur": 60,
+                "msm": 930
+            }
+        ],
+        "gowri_timings": [
+            {
+                "dur": 60,
+                "msm": 510
+            },
+            {
+                "dur": 60,
+                "msm": 840
+            }
+        ],
+        "ema_gandam": {
+            "dur": 90,
+            "msm": 630
+        },
+        "proverb": 302,
+        "noakku": 2,
+        "sun_rise": "5.42",
+        "chandrashtamam_star": [
+            17
+        ],
+        "chandrashtamam_rasi": [
+            7
+        ],
+        "nama_yogam": [
+            {
+                "msm": 1079,
+                "index": 0
+            },
+            {
+                "msm": 1440,
+                "index": 1
+            }
+        ],
+        "karanam_panchangam": [
+            {
+                "msm": 193,
+                "index": 1
+            },
+            {
+                "msm": 974,
+                "index": 2
+            },
+            {
+                "msm": 1440,
+                "index": 3
+            }
+        ],
+        "is_valar_pirai": true
+    },
+    {
+        "leaders": {
+            "date": 30,
+            "icon": "thevar",
+            "name": "பசும்பொன் முத்துராமலிங்கத் தேவர் பிறந்த தினம்",
+            "desc": "பசும்பொன் (ஆங்கிலம்:PASUMPON) இந்தியாவின் தமிழ்நாடு மாநிலத்தில் அமைந்துள்ள இராமநாதபுரம் மாவட்டம், கமுதி வட்டம், கமுதி ஊராட்சி ஒன்றியத்தில் இருக்கும் தவசிக்குறிச்சி வருவாய்க் கிராமத்தின் கமுதி வருவாய் வட்டத்தின் 16-ஆவது எண் கொண்ட வருவாய் கிராமம் (கிராம எண்:16) ஆகும்.[4][5] இந்தக் கிராமத்தின் உட்கிடையான ஒரு சின்னக் கிராமம் (சிற்றூர்). பசும்பொன் முத்துராமலிங்கத் தேவர் (அக்டோபர் 30, 1908 – அக்டோபர் 30, 1963) இந்த சிற்றூரில் பிறந்தவர். சுதந்திரப் போராட்டத் தியாகியாக விளங்கியவர். நேதாஜி சுபாஷ் சந்திர போசின் தலைமையில் பரங்கியரை எதிர்த்த இந்திய தேசிய இராணுவத்திற்கு தமிழகத்திலிருந்து பெரும் படையை திரட்டி அனுப்பிய பெருமை இவரைச் சாரும். தலைசிறந்த பேச்சாளராகவும் ஆன்மீகவாதியாகவும் திகழ்ந்த இவரது பிறந்த நாள் தமிழக அரசு விழாவாக பசும்பொன்னில் வருடந்தோறும் கொண்டாடப்பட்டு வருகின்றது"
+        },
+        "ragu": {
+            "dur": 90,
+            "msm": 150
+        },
+        "thithi": [
+            {
+                "msm": 203,
+                "index": 0
+            },
+            {
+                "msm": 1440,
+                "index": 1
+            }
+        ],
+        "year": 2027,
+        "yogam": [
+            {
+                "msm": 573,
+                "index": 0
+            },
+            {
+                "msm": 1414,
+                "index": 1
+            },
+            {
+                "msm": 1440,
+                "index": 2
+            }
+        ],
+        "month": 10,
+        "star": [
+            {
+                "msm": 493,
+                "index": 6
+            },
+            {
+                "msm": 1440,
+                "index": 7
+            }
+        ],
+        "visaesam": "பசும்பொன் முத்துராமலிங்கத் தேவர் ஜெயந்தி. திருக்கோஷ்டியூர் ஸ்ரீசௌமியநாராயணப் பெருமாள் ஊஞ்சல் உற்சவஸேவை. உலக சிக்கன நாள்.",
+        "date": 30,
+        "kuligai": {
+            "dur": 90,
+            "msm": 870
+        },
+        "sooranam": {
+            "dur": 90,
+            "msm": 0
+        },
+        "rasi": [
+            60,
+            20,
+            140,
+            76,
+            108,
+            137,
+            116,
+            59,
+            73,
+            0,
+            40,
+            110
+        ],
+        "kattams": [
+            "",
+            "",
+            "",
+            "கேது",
+            "குரு",
+            "புத",
+            "சூரி சந்",
+            "சுக் செவ்",
+            "",
+            "ராகு",
+            "",
+            "சனி"
+        ],
+        "soolam": 0,
+        "parigaram": 2,
+        "sun": {
+            "rise": 360,
+            "set": 1080
+        },
+        "muslim_date": 18,
+        "muslim_month": 5,
+        "ta_date": 13,
+        "ta_month": 7,
+        "ta_year": 40,
+        "is_ammavasai": false,
+        "is_pournami": false,
+        "is_kari_naal": false,
+        "is_sathurthi": false,
+        "is_s_sathurthi": false,
+        "is_shasti": false,
+        "is_egathasi": false,
+        "is_pradosham": false,
+        "is_siva_rathiri": false,
+        "is_thiruvathirai": false,
+        "is_thiruvonam": false,
+        "is_aruthra_darshan": false,
+        "is_kiruthigai": false,
+        "is_chanthira_darshan": false,
+        "day_special": "இன்று வளர்பிறை",
+        "good_timings": [
+            {
+                "dur": 60,
+                "msm": 480
+            },
+            {
+                "dur": 60,
+                "msm": 810
+            }
+        ],
+        "gowri_timings": [
+            {
+                "dur": 60,
+                "msm": 420
+            },
+            {
+                "dur": 60,
+                "msm": 930
+            }
+        ],
+        "ema_gandam": {
+            "dur": 90,
+            "msm": 870
+        },
+        "proverb": 303,
+        "noakku": 2,
+        "sun_rise": "6.07",
+        "chandrashtamam_star": [
+            18,
+            19
+        ],
+        "chandrashtamam_rasi": [
+            8
+        ],
+        "nama_yogam": [
+            {
+                "msm": 1074,
+                "index": 1
+            },
+            {
+                "msm": 1440,
+                "index": 2
+            }
+        ],
+        "karanam_panchangam": [
+            {
+                "msm": 305,
+                "index": 3
+            },
+            {
+                "msm": 1089,
+                "index": 4
+            },
+            {
+                "msm": 1440,
+                "index": 5
+            }
+        ],
+        "is_valar_pirai": true
+    },
+    {
+        "leaders": {
+            "date": 31,
+            "desc": "இந்திரா காந்தி (இந்திரா பிரியதர்சினி காந்தி) இந்தியாவின் மூன்றாவது பிரதமரும், ஒரே இந்திய பெண் பிரதமரும் ஆவார். அவர், இந்தியாவின் முதல் பிரதமரான ஜவகர்லால் நேருவின் ஒரே மகளும் ஆவார். இவரது இயற்பெயர் இந்திரா பிரியதர்சினி, ஃபெரோஸ் காந்தியுடனான திருமணத்திற்கு பின் இந்திரா பிரியதர்சினி காந்தியாக மாறினார், சுருக்கமாக இந்திரா காந்தியாக.இந்தியாவின் இரண்டாவது பிரதமராக இருந்த லால் பகதூர் சாஸ்திரியைத் தொடர்ந்து சில நாட்கள் தற்காலிகப் பதவி வகித்த குல்சாரிலால் நந்தாவுக்குப் பின்னர் ஜனவரி 19 1966-இல், பிரதம மந்திரியாகப் பதவியேற்ற இவர் மார்ச் 24 1977 வரை பதவியில் இருந்தார். 1977-இல் நடைபெற்ற பொதுத் தேர்தலில் பெரும் தோல்வியடைந்த இவர் மூன்று ஆண்டுகளுக்குப் பின்னர் நடைபெற்ற தேர்தலில் மீண்டும் வெற்றி பெற்றார். 14 ஜனவரி 1980-இல் பிரதமராக மீண்டும் பொறுப்பேற்றுக் கொண்ட இவர் 1984-இல் கொலை செய்யப்படும் வரை பதவியில் இருந்தார்.",
+            "icon": "indira_gandhi",
+            "name": "இந்திராகாந்தி நினைவு நாள்"
+        },
+        "ragu": {
+            "dur": 90,
+            "msm": 420
+        },
+        "thithi": [
+            {
+                "msm": 77,
+                "index": 1
+            },
+            {
+                "msm": 1384,
+                "index": 2
+            },
+            {
+                "msm": 1440,
+                "index": 3
+            }
+        ],
+        "year": 2027,
+        "yogam": [
+            {
+                "msm": 1440,
+                "index": 2
+            }
+        ],
+        "month": 10,
+        "star": [
+            {
+                "msm": 1440,
+                "index": 8
+            },
+            {
+                "msm": 385,
+                "index": 7
+            }
+        ],
+        "visaesam": "உத்திரமாயூரம் ஸ்ரீ வள்ளலார் சன்னதியில் ஸ்ரீ சந்திர சேகரர் புறப்பாடு. சிக்கல் ஸ்ரீ சிங்கார வேலவர் சூர்ணோற்சவம். குமாரவயலூர் ஸ்ரீ முருகப் பெருமான் திருக்கல்யாணம். இந்திரா காந்தி நினைவு நாள்.",
+        "date": 31,
+        "kuligai": {
+            "dur": 90,
+            "msm": 360
+        },
+        "sooranam": {
+            "dur": 90,
+            "msm": 630
+        },
+        "rasi": [
+            112,
+            91,
+            135,
+            2,
+            7,
+            119,
+            121,
+            36,
+            113,
+            77,
+            81,
+            128
+        ],
+        "kattams": [
+            "",
+            "",
+            "",
+            "கேது",
+            "குரு",
+            "புத",
+            "சூரி",
+            "சந் சுக் செவ்",
+            "",
+            "ராகு",
+            "",
+            "சனி"
+        ],
+        "soolam": 2,
+        "parigaram": 1,
+        "sun": {
+            "rise": 360,
+            "set": 1080
+        },
+        "muslim_date": 19,
+        "muslim_month": 5,
+        "ta_date": 14,
+        "ta_month": 7,
+        "ta_year": 40,
+        "is_ammavasai": false,
+        "is_pournami": false,
+        "is_kari_naal": false,
+        "is_sathurthi": false,
+        "is_s_sathurthi": false,
+        "is_shasti": false,
+        "is_egathasi": false,
+        "is_pradosham": false,
+        "is_siva_rathiri": false,
+        "is_thiruvathirai": false,
+        "is_thiruvonam": false,
+        "is_aruthra_darshan": false,
+        "is_kiruthigai": false,
+        "is_chanthira_darshan": false,
+        "day_special": "இன்று வளர்பிறை",
+        "good_timings": [
+            {
+                "dur": 60,
+                "msm": 510
+            },
+            {
+                "dur": 60,
+                "msm": 810
+            }
+        ],
+        "gowri_timings": [
+            {
+                "dur": 60,
+                "msm": 570
+            },
+            {
+                "dur": 60,
+                "msm": 930
+            }
+        ],
+        "ema_gandam": {
+            "dur": 90,
+            "msm": 690
+        },
+        "proverb": 304,
+        "noakku": 1,
+        "sun_rise": "5.50",
+        "chandrashtamam_star": [
+            20
+        ],
+        "chandrashtamam_rasi": [
+            8,
+            9
+        ],
+        "nama_yogam": [
+            {
+                "msm": 1047,
+                "index": 2
+            },
+            {
+                "msm": 1440,
+                "index": 3
+            }
+        ],
+        "karanam_panchangam": [
+            {
+                "msm": 432,
+                "index": 5
+            },
+            {
+                "msm": 1211,
+                "index": 6
+            },
+            {
+                "msm": 1440,
+                "index": 7
+            }
+        ],
+        "is_valar_pirai": true
+    }
+]
