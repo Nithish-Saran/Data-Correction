@@ -159,12 +159,14 @@
       }
     ],
     "is_valar_pirai": false,
-    "government_holiday": {
-      "desc": "வங்கி முழுவருடக் கணக்கு முடிவு",
-      "name": "வங்கி முழுவருடக் கணக்கு முடிவு",
-      "date": 1,
-      "icon": "bank_holiday"
-    }
+    "government_holiday": [
+      {
+        "name": "வங்கி முழுவருடக் கணக்கு முடிவு (வங்கி மட்டும் விடுமுறை)",
+        "date": 1,
+        "icon": "bank-holiday",
+        "desc": ""
+      }
+    ]
   },
   {
     "star": [
@@ -1146,7 +1148,15 @@
         "index": 6
       }
     ],
-    "is_valar_pirai": true
+    "is_valar_pirai": true,
+    "government_holiday": [
+      {
+        "name": "தெலுங்கு வருடப் பிறப்பு, யுகாதி பண்டிகை",
+        "date": 7,
+        "icon": "ugati",
+        "desc": "உகாதி பண்டிகை என தெலுங்கு, கன்னடம் மற்றும் மராட்டி பேசும் மக்களால் இது கொண்டாடப்படுகிறது. அவர்களுக்கு இதுவே புத்தாண்டு."
+      }
+    ]
   },
   {
     "star": [
@@ -1637,13 +1647,7 @@
         "index": 5
       }
     ],
-    "is_valar_pirai": true,
-    "government_holiday": {
-      "desc": "மகாவீரர் அவதரித்த திருநாள். இந்நாள்",
-      "name": "மகாவீர் ஜெயந்தி",
-      "date": 10,
-      "icon": "mahaveera_jayanthi"
-    }
+    "is_valar_pirai": true
   },
   {
     "star": [
@@ -2317,12 +2321,14 @@
       }
     ],
     "is_valar_pirai": true,
-    "government_holiday": {
-      "desc": "இன்று தமிழ் புத்தாண்டு ஆரம்பம். அண்ணல் அம்பேத்கர் பிறந்த தினம்.",
-      "icon": "tamil_new_year",
-      "name": "தமிழ் வருடப் பிறப்பு",
-      "date": 14
-    }
+    "government_holiday": [
+      {
+        "name": "தமிழ் வருடப்பிறப்பு",
+        "date": 14,
+        "icon": "tamil_new_year",
+        "desc": "இன்று தமிழ் புத்தாண்டு ஆரம்பம்."
+      }
+    ]
   },
   {
     "star": [
@@ -2989,13 +2995,7 @@
         "index": 3
       }
     ],
-    "is_valar_pirai": true,
-    "government_holiday": {
-      "desc": "கிறிஸ்து இயேசு சிலுவையில் அடிக்கப்பட்ட நாள்",
-      "icon": "punitha_velli",
-      "name": "புனித வெள்ளி",
-      "date": 18
-    }
+    "is_valar_pirai": true
   },
   {
     "star": [
@@ -3166,7 +3166,15 @@
         "index": 5
       }
     ],
-    "is_valar_pirai": true
+    "is_valar_pirai": true,
+    "government_holiday": [
+      {
+        "name": "மகாவீரர் ஜெயந்தி",
+        "date": 19,
+        "icon": "mahaveera_jayanthi",
+        "desc": "இந்நாள் மகாவீரர் அவதரித்த திருநாள்."
+      }
+    ]
   },
   {
     "star": [

@@ -160,12 +160,14 @@
       }
     ],
     "is_valar_pirai": false,
-    "government_holiday": {
-      "icon": "workers_day",
-      "desc": "இன்று தொழிலாளர் தினம்",
-      "date": 1,
-      "name": "தொழிலாளர் தினம்"
-    }
+    "government_holiday": [
+      {
+        "name": "தொழிலாளர் தினம்",
+        "date": 1,
+        "icon": "workers_day",
+        "desc": "இன்று தொழிலாளர் தினம்."
+      }
+    ]
   },
   {
     "parigaram": 3,
@@ -2805,12 +2807,14 @@
       }
     ],
     "is_valar_pirai": true,
-    "government_holiday": {
-      "name": "பக்ரீத் பண்டிகை",
-      "icon": "shaheed_bharat",
-      "desc": "இப்றாகீம் நபியின் தியாகத்தை நினைவு கூறும் ஈகைத் திருநாள்",
-      "date": 17
-    }
+    "government_holiday": [
+      {
+        "name": "பக்ரீத் பண்டிகை",
+        "date": 17,
+        "icon": "ic_pakrid",
+        "desc": "இப்ராஹீம் நபியின் தியாகத்தை நினைவு கூறும் ஈகைத் திருநாள்."
+      }
+    ]
   },
   {
     "rasi": [

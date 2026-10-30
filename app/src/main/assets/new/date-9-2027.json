@@ -631,7 +631,15 @@
         "index": 4
       }
     ],
-    "is_valar_pirai": true
+    "is_valar_pirai": true,
+    "government_holiday": [
+      {
+        "name": "ஸ்ரீவிநாயகர் சதுர்த்தி",
+        "date": 4,
+        "icon": "vinayagar_sathurthi",
+        "desc": "ஸ்ரீ விநாயகப் பெருமான் அவதாரம் செய்த திருநாள்."
+      }
+    ]
   },
   {
     "parigaram": 0,
@@ -809,13 +817,7 @@
         "index": 6
       }
     ],
-    "is_valar_pirai": true,
-    "government_holiday": {
-      "icon": "milad_un_nabi",
-      "desc": "முகமது நபி அவர்களின் பிறந்த நாள் என்று அறியப்படுகிறது. இசுலாமிய நாட்காட்டியில் மூன்றாவது மாதம் இதுவே",
-      "date": 5,
-      "name": "மீலாடி நபி"
-    }
+    "is_valar_pirai": true
   },
   {
     "year": 2027,

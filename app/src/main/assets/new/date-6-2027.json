@@ -2453,12 +2453,14 @@
       }
     ],
     "is_valar_pirai": true,
-    "government_holiday": {
-      "desc": "ஷியா பிரிவு இஸ்லாமியர்களின் துக்க நாள்",
-      "name": "மொஹரம் பண்டிகை",
-      "icon": "mokaram",
-      "date": 15
-    }
+    "government_holiday": [
+      {
+        "name": "மொஹரம் பண்டிகை",
+        "date": 15,
+        "icon": "mokaram",
+        "desc": "ஷியா பிரிவு இஸ்லாமியர்களின் துக்க நாள்."
+      }
+    ]
   },
   {
     "date": 16,

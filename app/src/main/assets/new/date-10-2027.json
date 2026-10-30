@@ -163,13 +163,7 @@
         "index": 6
       }
     ],
-    "is_valar_pirai": true,
-    "government_holiday": {
-      "name": "சரஸ்வதி பூஜை, ஆயுத பூஜை",
-      "icon": "sarasvathi_poojai",
-      "desc": "சரஸ்வதி தேவியை வழிபடும் தினம். வாழ்க்கை போராட்டத்தில் அனுதினமும் நமக்கு உதவும் பொருள்களுக்கு நன்றி தெரிவிக்கும் நன்னாள்",
-      "date": 1
-    }
+    "is_valar_pirai": true
   },
   {
     "leaders": {
@@ -343,12 +337,14 @@
       }
     ],
     "is_valar_pirai": true,
-    "government_holiday": {
-      "name": "விஜயதசமி, காந்தி ஜெயந்தி",
-      "icon": "gandhi",
-      "desc": "வித்தைகள் மேம்பட புதிய விஷயங்களை துவங்க ஏதுவான நன்னாள், தேசத் தந்தை காந்திஜி பிறந்த தினம்",
-      "date": 2
-    }
+    "government_holiday": [
+      {
+        "name": "காந்தி ஜெயந்தி",
+        "date": 2,
+        "icon": "gandhi",
+        "desc": "தேசத் தந்தை காந்திஜி பிறந்த தினம்."
+      }
+    ]
   },
   {
     "leaders": {
@@ -1338,7 +1334,15 @@
         "index": 1
       }
     ],
-    "is_valar_pirai": true
+    "is_valar_pirai": true,
+    "government_holiday": [
+      {
+        "name": "சரஸ்வதி பூஜை, ஆயுத பூஜை",
+        "date": 8,
+        "icon": "saraswathi_poojai",
+        "desc": "சரஸ்வதி தேவியை வழிபடும் தினம். வாழ்க்கை போராட்டத்தில் அனுதினமும் நமக்கு உதவும் பொருள்களுக்கு நன்றி தெரிவிக்கும் நன்னாள்."
+      }
+    ]
   },
   {
     "ragu": {
@@ -1507,7 +1511,15 @@
         "index": 3
       }
     ],
-    "is_valar_pirai": true
+    "is_valar_pirai": true,
+    "government_holiday": [
+      {
+        "name": "விஜயதசமி",
+        "date": 9,
+        "icon": "vijayathasami",
+        "desc": "வித்தைகள் மேம்பட புதிய விஷயங்களை துவங்க ஏதுவான நன்னாள்."
+      }
+    ]
   },
   {
     "ragu": {
@@ -3309,13 +3321,7 @@
         "index": 6
       }
     ],
-    "is_valar_pirai": false,
-    "government_holiday": {
-      "name": "தீபாவளிப் பண்டிகை",
-      "icon": "diwali",
-      "desc": "தீபங்கள் ஒளி வீச..பட்டாசுகளை வெடித்து மக்கள் தங்கள் மகிழ்ச்சியை கொண்டாடும் திருநாள்",
-      "date": 20
-    }
+    "is_valar_pirai": false
   },
   {
     "ragu": {
@@ -4622,7 +4628,15 @@
         "index": 1
       }
     ],
-    "is_valar_pirai": false
+    "is_valar_pirai": false,
+    "government_holiday": [
+      {
+        "name": "தீபாவளிப் பண்டிகை",
+        "date": 28,
+        "icon": "diwali",
+        "desc": "தீபங்கள் ஒளி வீச, பட்டாசுகளை வெடித்து மக்கள் தங்கள் மகிழ்ச்சியை கொண்டாடும் திருநாள்."
+      }
+    ]
   },
   {
     "ragu": {

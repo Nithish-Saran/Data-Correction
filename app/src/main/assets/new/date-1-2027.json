@@ -169,12 +169,14 @@
       }
     ],
     "is_valar_pirai": false,
-    "government_holiday": {
-      "date": 1,
-      "desc": "ஆங்கிலேயர்கள் கால கணிப்பு முறைப்படி இன்று உலக அளவில் ஆங்கிலப் புத்தாண்டு கொண்டாடப்படுகிறது.",
-      "name": "ஆங்கில வருடப்பிறப்பு",
-      "icon": "new_year"
-    }
+    "government_holiday": [
+      {
+        "name": "ஆங்கிலப் புத்தாண்டு",
+        "date": 1,
+        "icon": "new_year",
+        "desc": "ஆங்கிலேயர்கள் கால கணிப்பு முறைப்படி இன்று உலக அளவில் ஆங்கிலப் புத்தாண்டு கொண்டாடப்படுகிறது."
+      }
+    ]
   },
   {
     "sooranam": {
@@ -2318,13 +2320,7 @@
         "index": 10
       }
     ],
-    "is_valar_pirai": true,
-    "government_holiday": {
-      "date": 14,
-      "icon": "pongal",
-      "desc": "தமிழர்களின் திருநாள். விவசாயிகளின் பொன்னாள்.",
-      "name": "தைப்பொங்கல்"
-    }
+    "is_valar_pirai": true
   },
   {
     "sooranam": {
@@ -2498,12 +2494,14 @@
       }
     ],
     "is_valar_pirai": true,
-    "government_holiday": {
-      "name": "மாட்டுப் பொங்கல், திருவள்ளுவர் தினம்",
-      "icon": "mattu_pongal",
-      "date": 15,
-      "desc": "திருவள்ளுவர் அவதரித்ததாக கருதப்படும் தினம், உழவர்கள் மாடுகளுக்கு நன்றி தெரிவிக்கும் தினம்."
-    }
+    "government_holiday": [
+      {
+        "name": "தைப் பொங்கல்",
+        "date": 15,
+        "icon": "pongal",
+        "desc": "தமிழர்களின் திருநாள். விவசாயிகளின் பொன்னாள்."
+      }
+    ]
   },
   {
     "sooranam": {
@@ -2679,12 +2677,14 @@
       }
     ],
     "is_valar_pirai": true,
-    "government_holiday": {
-      "desc": "இன்று உழவர்களின் கொண்டாட்ட திருநாள்",
-      "name": "உழவர் திருநாள் ",
-      "date": 16,
-      "icon": "ulavar"
-    }
+    "government_holiday": [
+      {
+        "name": "மாட்டுப் பொங்கல், திருவள்ளுவர் தினம்",
+        "date": 16,
+        "icon": "mattu_pongal",
+        "desc": "திருவள்ளுவர் அவதரித்ததாக கருதப்படும் தினம், உழவர்கள் மாடுகளுக்கு நன்றி தெரிவிக்கும் தினம்."
+      }
+    ]
   },
   {
     "sooranam": {
@@ -2851,7 +2851,15 @@
         "index": 6
       }
     ],
-    "is_valar_pirai": true
+    "is_valar_pirai": true,
+    "government_holiday": [
+      {
+        "name": "உழவர் திருநாள்",
+        "date": 17,
+        "icon": "ulavar",
+        "desc": "இன்று உழவர்களின் கொண்டாட்ட திருநாள்."
+      }
+    ]
   },
   {
     "sooranam": {
@@ -3656,7 +3664,15 @@
         "index": 2
       }
     ],
-    "is_valar_pirai": false
+    "is_valar_pirai": false,
+    "government_holiday": [
+      {
+        "name": "தைப்பூசம்",
+        "date": 22,
+        "icon": "thaipusam",
+        "desc": "இன்று முருகப் பெருமானுக்கு உகந்த நன்னாள்."
+      }
+    ]
   },
   {
     "sooranam": {
@@ -4305,12 +4321,14 @@
       }
     ],
     "is_valar_pirai": false,
-    "government_holiday": {
-      "name": "இந்தியக் குடியரசு தினம்",
-      "icon": "republic_day",
-      "date": 26,
-      "desc": "இந்திய நாடு குடியரசாக அறிவிக்கப்பட்ட நாள்"
-    }
+    "government_holiday": [
+      {
+        "name": "இந்திய குடியரசு தினம்",
+        "date": 26,
+        "icon": "republic_day",
+        "desc": "இந்திய நாடு குடியரசாக அறிவிக்கப்பட்ட நாள்."
+      }
+    ]
   },
   {
     "sooranam": {

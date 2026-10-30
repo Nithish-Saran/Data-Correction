@@ -4124,12 +4124,14 @@
       }
     ],
     "is_valar_pirai": false,
-    "government_holiday": {
-      "desc": "கிறிஸ்து பிறந்ததாக சொல்லப்படும் கிறிஸ்துமஸ் திருவிழா.",
-      "date": 25,
-      "name": "கிறிஸ்துமஸ் பண்டிகை",
-      "icon": "christmas"
-    }
+    "government_holiday": [
+      {
+        "name": "கிறிஸ்துமஸ் பண்டிகை",
+        "date": 25,
+        "icon": "christmas",
+        "desc": "கிறிஸ்து பிறந்ததாக சொல்லப்படும் கிறிஸ்துமஸ் திருவிழா."
+      }
+    ]
   },
   {
     "kattams": [

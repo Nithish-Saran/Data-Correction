@@ -2474,12 +2474,14 @@
       }
     ],
     "is_valar_pirai": false,
-    "government_holiday": {
-      "date": 15,
-      "name": "இந்திய சுதந்திர தினம்",
-      "desc": "இந்தியா சுதந்திரம் அடைந்த நாள்",
-      "icon": "independence_day"
-    }
+    "government_holiday": [
+      {
+        "name": "இந்திய சுதந்திர தினம், மிலாடி நபி",
+        "date": 15,
+        "icon": "independence_day",
+        "desc": "இந்தியா சுதந்திரம் அடைந்த நாள்."
+      }
+    ]
   },
   {
     "date": 16,
@@ -2646,13 +2648,7 @@
         "index": 7
       }
     ],
-    "is_valar_pirai": false,
-    "government_holiday": {
-      "desc": "ஸ்ரீ கிருஷ்ணர் பிறந்த தினம்",
-      "icon": "gokulastami",
-      "date": 16,
-      "name": "கோகுலாஷ்டமி"
-    }
+    "is_valar_pirai": false
   },
   {
     "date": 17,
@@ -4130,7 +4126,15 @@
         "index": 5
       }
     ],
-    "is_valar_pirai": false
+    "is_valar_pirai": false,
+    "government_holiday": [
+      {
+        "name": "கோகுலாஷ்டமி",
+        "date": 25,
+        "icon": "gokulastami",
+        "desc": "ஸ்ரீ கிருஷ்ணர் பிறந்த தினம்."
+      }
+    ]
   },
   {
     "date": 26,
@@ -4450,13 +4454,7 @@
         "index": 2
       }
     ],
-    "is_valar_pirai": false,
-    "government_holiday": {
-      "name": "ஸ்ரீ விநாயகர் சதுர்த்தி",
-      "date": 27,
-      "desc": "ஸ்ரீ விநாயகப் பெருமான் அவதாரம் செய்த திருநாள்",
-      "icon": "vinayagar_sathurthi"
-    }
+    "is_valar_pirai": false
   },
   {
     "date": 28,

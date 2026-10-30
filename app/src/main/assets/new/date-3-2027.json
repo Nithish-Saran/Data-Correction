@@ -1614,7 +1614,15 @@
         "index": 2
       }
     ],
-    "is_valar_pirai": true
+    "is_valar_pirai": true,
+    "government_holiday": [
+      {
+        "name": "ரம்ஜான் பண்டிகை",
+        "date": 10,
+        "icon": "ramadan",
+        "desc": "இஸ்லாமியர்களின் புனிதத் திருநாள்."
+      }
+    ]
   },
   {
     "soolam": 0,
@@ -4220,7 +4228,15 @@
         "index": 2
       }
     ],
-    "is_valar_pirai": false
+    "is_valar_pirai": false,
+    "government_holiday": [
+      {
+        "name": "புனித வெள்ளி",
+        "date": 26,
+        "icon": "punitha_velli",
+        "desc": "கிறிஸ்து இயேசு சிலுவையில் அடிக்கப்பட்ட நாள்."
+      }
+    ]
   },
   {
     "soolam": 2,
@@ -4896,13 +4912,7 @@
         "index": 3
       }
     ],
-    "is_valar_pirai": false,
-    "government_holiday": {
-      "date": 30,
-      "desc": "உகாதி பண்டிகை\u0027 என தெலுங்கு, கன்னடம் மற்றும் மராட்டி பேசும் மக்களால் இது கொண்டாடப்படுகிறது. அவர்களுக்கு இதுவே புத்தாண்டு.",
-      "icon": "ugati",
-      "name": "தெலுங்கு வருடப்பிறப்பு"
-    }
+    "is_valar_pirai": false
   },
   {
     "soolam": 0,
@@ -5068,12 +5078,6 @@
         "index": 5
       }
     ],
-    "is_valar_pirai": false,
-    "government_holiday": {
-      "icon": "ramadan",
-      "date": 31,
-      "desc": "இஸ்லாமியர்களின் புனிதத் திருநாள்.",
-      "name": "ரம்ஜான் பண்டிகை"
-    }
+    "is_valar_pirai": false
   }
 ]

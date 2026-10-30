@@ -1793,13 +1793,7 @@
         "index": 7
       }
     ],
-    "is_valar_pirai": true,
-    "government_holiday": {
-      "name": "தைப்பூசம்",
-      "icon": "thaipusam",
-      "date": 11,
-      "desc": "இன்று முருகப் பெருமானுக்கு உகந்த நன்னாள்"
-    }
+    "is_valar_pirai": true
   },
   {
     "ashtami": {
