@@ -654,7 +654,13 @@
         "index": 7
       }
     ],
-    "is_valar_pirai": true
+    "is_valar_pirai": true,
+    "hindu": {
+      "name": "ஸ்ரீகந்த சஷ்டி சூரசம்ஹாரம்",
+      "date": 4,
+      "icon": "kanta_sasti_sura_samkaram",
+      "desc": "சூரனை முருகப் பெருமான் சம்ஹாரம் செய்த தினம் இன்று."
+    }
   },
   {
     "navami": {
@@ -4733,12 +4739,6 @@
     "is_valar_pirai": true
   },
   {
-    "christ": {
-      "icon": "advent_sunday",
-      "name": "அட்வண்டு முதல் ஞாயிறு",
-      "date": 30,
-      "desc": ""
-    },
     "leaders": {
       "icon": "jagathees_chandra_bose",
       "name": "ஜெகதீஸ் சந்திரபோஸ் பிறந்தநாள்.",
